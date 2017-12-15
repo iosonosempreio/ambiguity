@@ -1,0 +1,5564 @@
+[
+{
+    "id": "219533054725933",
+    "location":
+    {
+        "longitude": 12.582954491272,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.67930541456
+    },
+    "name": "KØBENHAVN - Kopenhagen -"
+},
+{
+    "id": "108459515844583",
+    "location":
+    {
+        "longitude": 12.57537222,
+        "latitude": 55.67877778
+    },
+    "name": "Strøget"
+},
+{
+    "id": "108003279227124",
+    "location":
+    {
+        "latitude": 55.675367,
+        "zip": "1216",
+        "longitude": 12.584533,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Slotsholmsgade 1"
+    },
+    "name": "Børsen"
+},
+{
+    "id": "129889340386464",
+    "location":
+    {
+        "latitude": 55.680278,
+        "zip": "1095",
+        "longitude": 12.585833,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kongen Nytorv"
+    },
+    "name": "Kongens Nytorv"
+},
+{
+    "id": "181137468582725",
+    "location":
+    {
+        "latitude": 55.68011,
+        "zip": "1155",
+        "longitude": 12.57549,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kejsergade 2, 1. og 2. sal"
+    },
+    "name": "Børn, Unge & Sorg"
+},
+{
+    "id": "874523179261790",
+    "location":
+    {
+        "latitude": 45.762295263214,
+        "zip": "69003",
+        "longitude": 4.8556819617857,
+        "city": "Lyon",
+        "country": "France",
+        "street": "Rue de Bonnel"
+    },
+    "name": "Lego Store Lyon"
+},
+{
+    "id": "18878857084",
+    "location":
+    {
+        "latitude": 55.68133,
+        "zip": "1150",
+        "longitude": 12.57577,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Købmagergade 52A"
+    },
+    "name": "Rundetaarn"
+},
+{
+    "id": "110343502319180",
+    "location":
+    {
+        "longitude": 12.5683,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.6761
+    },
+    "name": "Copenhagen, Denmark"
+},
+{
+    "id": "107029382666893",
+    "location":
+    {
+        "latitude": 55.675833333333,
+        "zip": "1218",
+        "longitude": 12.578888888889,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Prins Jørgens Gård 1"
+    },
+    "name": "Christiansborg Palace"
+},
+{
+    "id": "110276419023488",
+    "location":
+    {
+        "longitude": 12.577777777778,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "zip": "1350",
+        "latitude": 55.685555555556
+    },
+    "name": "Rosenborg Castle"
+},
+{
+    "id": "47703234827",
+    "location":
+    {
+        "latitude": 55.68087,
+        "zip": "1172 København K",
+        "longitude": 12.57365,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Krystalgade 15"
+    },
+    "name": "Københavns Hovedbibliotek"
+},
+{
+    "id": "107714365986502",
+    "location":
+    {
+        "longitude": 12.5638,
+        "city": "København",
+        "street": "Dronning Louises bro",
+        "country": "Denmark",
+        "latitude": 55.6867
+    },
+    "name": "Dronning Louises Bro"
+},
+{
+    "id": "189208031104527",
+    "location":
+    {
+        "latitude": 55.67911,
+        "zip": "1453",
+        "longitude": 12.5675899,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Sankt Peders Stræde 28c, 1. sal"
+    },
+    "name": "Kulturnatten"
+},
+{
+    "id": "117320861689541",
+    "location":
+    {
+        "latitude": 55.68384352593,
+        "zip": "1360",
+        "longitude": 12.569657950459,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Frederiksborggade 21"
+    },
+    "name": "Torvehallerne KBH"
+},
+{
+    "id": "151980038202813",
+    "location":
+    {
+        "latitude": 55.68059,
+        "zip": "1050",
+        "longitude": 12.5846699,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kongens Nytorv 34"
+    },
+    "name": "Hotel d'Angleterre"
+},
+{
+    "id": "90782814955",
+    "location":
+    {
+        "latitude": 55.67932,
+        "zip": "1171",
+        "longitude": 12.57387,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Fiolstræde 2"
+    },
+    "name": "Ristorante Italiano"
+},
+{
+    "id": "197674833589136",
+    "location":
+    {
+        "latitude": 55.67606,
+        "zip": "1550",
+        "longitude": 12.568826,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "2121 2nd Ave"
+    },
+    "name": "City Hall Square, Copenhagen"
+},
+{
+    "id": "1240796305940475",
+    "location":
+    {
+        "located_in": "186097958082467",
+        "latitude": 55.68163,
+        "zip": "1165",
+        "longitude": 12.57096,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nørregade 41"
+    },
+    "name": "BLÆST"
+},
+{
+    "id": "115634401797120",
+    "location":
+    {
+        "longitude": 12.5803804,
+        "latitude": 55.6808281
+    },
+    "name": "BT"
+},
+{
+    "id": "174980412535287",
+    "location":
+    {
+        "longitude": 12.585952912693,
+        "city": "Copenhagen",
+        "street": "Kongens Nytorv",
+        "country": "Denmark",
+        "latitude": 55.679397860107
+    },
+    "name": "Det Kongelige Teater - Gamle Scene"
+},
+{
+    "id": "133485170025293",
+    "location":
+    {
+        "longitude": 12.570278,
+        "latitude": 55.675278
+    },
+    "name": "Copenhagen City Hall"
+},
+{
+    "id": "713689748698903",
+    "location":
+    {
+        "longitude": 12.57998856,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.67897432
+    },
+    "name": "Caffe Norden"
+},
+{
+    "id": "10778756137",
+    "location":
+    {
+        "latitude": 55.679908779159,
+        "zip": "1165",
+        "longitude": 12.572335921819,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nørregade 10"
+    },
+    "name": "Københavns Universitet - University of Copenhagen"
+},
+{
+    "id": "254724320876",
+    "location":
+    {
+        "latitude": 55.67930241591,
+        "zip": "1095",
+        "longitude": 12.584667205811,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kongens Nytorv 13"
+    },
+    "name": "Magasin du Nord"
+},
+{
+    "id": "87468072466",
+    "location":
+    {
+        "latitude": 55.67696,
+        "zip": "1210",
+        "longitude": 12.57548,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Knabrostræde 20, st"
+    },
+    "name": "Copenhagen Pride (official)"
+},
+{
+    "id": "138091489545958",
+    "location":
+    {
+        "longitude": 12.57305556,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.67722222
+    },
+    "name": "Copenhagen Court House"
+},
+{
+    "id": "124214190922941",
+    "location":
+    {
+        "latitude": 55.683022036647,
+        "zip": "1130",
+        "longitude": 12.573207873306,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Rosenborggade 1 A"
+    },
+    "name": "ICO Concerts"
+},
+{
+    "id": "755154827990216",
+    "location":
+    {
+        "located_in": "108741202494014",
+        "latitude": 55.67565,
+        "zip": "1620",
+        "longitude": 12.56672,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 2b"
+    },
+    "name": "MU:ZE Club"
+},
+{
+    "id": "118459892214401",
+    "location":
+    {
+        "latitude": 55.67872,
+        "zip": "1200",
+        "longitude": 12.58008,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Højbro Plads 3"
+    },
+    "name": "Lola Cph"
+},
+{
+    "id": "164713220225410",
+    "location":
+    {
+        "latitude": 55.68072,
+        "zip": "1051",
+        "longitude": 12.58831,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nyhavn 5"
+    },
+    "name": "Nyhavns Færgekro"
+},
+{
+    "id": "208952725796165",
+    "location":
+    {
+        "located_in": "339799125985",
+        "latitude": 55.6728516,
+        "zip": "1220",
+        "longitude": 12.5786304,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Frederiksholms Kanal 30"
+    },
+    "name": "Copenhagen Fashion Week"
+},
+{
+    "id": "264973933531728",
+    "location":
+    {
+        "latitude": 55.67859,
+        "zip": "1165",
+        "longitude": 12.57205,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nørregade 1"
+    },
+    "name": "PENTHOUSE"
+},
+{
+    "id": "63319095955",
+    "location":
+    {
+        "latitude": 55.67912855416,
+        "zip": "1432",
+        "longitude": 12.577525242611,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Refshalevej 167A, 1., S2"
+    },
+    "name": "DISTORTION"
+},
+{
+    "id": "1003817229709884",
+    "location":
+    {
+        "latitude": 55.68023,
+        "zip": "1106",
+        "longitude": 12.58108,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Antonigade 2"
+    },
+    "name": "The Market - Asian Kitchen & Bar"
+},
+{
+    "id": "108857932468068",
+    "location":
+    {
+        "longitude": 12.589041315388,
+        "city": "Nyhavn",
+        "country": "Denmark",
+        "latitude": 55.680325353702
+    },
+    "name": "Nyhavn, København, Denmark"
+},
+{
+    "id": "135318820366179",
+    "location":
+    {
+        "latitude": 55.679075571006,
+        "zip": "1159",
+        "longitude": 12.574034929276,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Skindergade 35"
+    },
+    "name": "HeavenSpa Denmark"
+},
+{
+    "id": "133621980011900",
+    "location":
+    {
+        "latitude": 55.68083,
+        "zip": "1358",
+        "longitude": 12.56639,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nørre Voldgade 1"
+    },
+    "name": "Ørstedsparken"
+},
+{
+    "id": "8447813263",
+    "location":
+    {
+        "latitude": 55.68118,
+        "zip": "1150",
+        "longitude": 12.5763,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Købmagergade 52"
+    },
+    "name": "Studenterhuset"
+},
+{
+    "id": "311321422669029",
+    "location":
+    {
+        "latitude": 55.67955,
+        "zip": "1154",
+        "longitude": 12.57741,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Niels Hemmingsens Gade 20"
+    },
+    "name": "Gasoline Grill"
+},
+{
+    "id": "1584373788488519",
+    "location":
+    {
+        "longitude": 12.52746964,
+        "city": "København",
+        "country": "Denmark",
+        "zip": "2450",
+        "latitude": 55.71032954
+    },
+    "name": "Kongens Enghave"
+},
+{
+    "id": "122669691107329",
+    "location":
+    {
+        "longitude": 12.569268905705,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.678057578289
+    },
+    "name": "P3 - DR"
+},
+{
+    "id": "202269979833637",
+    "location":
+    {
+        "latitude": 55.6772,
+        "zip": "1466",
+        "longitude": 12.57407,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Rådhusstræde 1, 1"
+    },
+    "name": "Samadhi-Spa"
+},
+{
+    "id": "37324072910",
+    "location":
+    {
+        "latitude": 55.688524693401,
+        "zip": "1307",
+        "longitude": 12.57839277234,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Sølvgade 48-50"
+    },
+    "name": "SMK - Statens Museum for Kunst"
+},
+{
+    "id": "259958541509",
+    "location":
+    {
+        "longitude": 12.5675602,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.6756706
+    },
+    "name": "Copenhagen Jazz Festival"
+},
+{
+    "id": "704627896342816",
+    "location":
+    {
+        "latitude": 55.67801,
+        "zip": "1210",
+        "longitude": 12.5744399,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Knabrostræde 3"
+    },
+    "name": "Chateau Motel"
+},
+{
+    "id": "151682331570325",
+    "location":
+    {
+        "latitude": 55.67892,
+        "zip": "1160",
+        "longitude": 12.57883,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Amagertorv 8"
+    },
+    "name": "Disney Store Copenhagen"
+},
+{
+    "id": "1707310606157724",
+    "location":
+    {
+        "latitude": 55.68103,
+        "zip": "1171",
+        "longitude": 12.57264,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Fiolstræde 5"
+    },
+    "name": "Dalle Valle"
+},
+{
+    "id": "1408450449408848",
+    "location":
+    {
+        "latitude": 55.67865,
+        "zip": "1160",
+        "longitude": 12.5789,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Amagertorv 5"
+    },
+    "name": "The Dubliner"
+},
+{
+    "id": "203161089779997",
+    "location":
+    {
+        "longitude": 12.568788528442,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.683258379504
+    },
+    "name": "Copenhagen Cooking & Food Festival"
+},
+{
+    "id": "36142437945",
+    "location":
+    {
+        "latitude": 55.6793518,
+        "zip": "1153",
+        "longitude": 12.5777102,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Niels Hemmingsensgade 10"
+    },
+    "name": "JAZZHOUSE"
+},
+{
+    "id": "110579276299557",
+    "location":
+    {
+        "latitude": 55.67579,
+        "zip": "1608",
+        "longitude": 12.56582,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Jernbanegade 11"
+    },
+    "name": "TRIO"
+},
+{
+    "id": "185892508485136",
+    "location":
+    {
+        "located_in": "201557006528435",
+        "latitude": 55.67926,
+        "zip": "1100",
+        "longitude": 12.58069,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "ILLUM Østergade 52,"
+    },
+    "name": "Eataly Copenhagen"
+},
+{
+    "id": "219536074733226",
+    "location":
+    {
+        "latitude": 55.67889,
+        "zip": "1160",
+        "longitude": 12.57861,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Amagertorv 10"
+    },
+    "name": "Illums Bolighus"
+},
+{
+    "id": "186876378066911",
+    "location":
+    {
+        "latitude": 55.67703,
+        "zip": "1208",
+        "longitude": 12.5757,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kompagnistræde 19"
+    },
+    "name": "Comedy ZOO"
+},
+{
+    "id": "108311282527190",
+    "location":
+    {
+        "longitude": 12.5794444444,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.6875
+    },
+    "name": "DSB"
+},
+{
+    "id": "194814544261125",
+    "location":
+    {
+        "latitude": 55.67734,
+        "zip": "1208",
+        "longitude": 12.57571,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kompagnistræde 14"
+    },
+    "name": "Cafe Grabz"
+},
+{
+    "id": "236559396812239",
+    "location":
+    {
+        "latitude": 55.682175670829,
+        "zip": "1123",
+        "longitude": 12.584787905216,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Boltens Gård 8F"
+    },
+    "name": "Classic"
+},
+{
+    "id": "269127110182129",
+    "location":
+    {
+        "latitude": 55.67775,
+        "zip": "1450",
+        "longitude": 12.5733599,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nytorv 5"
+    },
+    "name": "MÄT Copenhagen"
+},
+{
+    "id": "201557006528435",
+    "location":
+    {
+        "latitude": 55.6792603,
+        "zip": "1001",
+        "longitude": 12.5806904,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Østergade 52"
+    },
+    "name": "ILLUM"
+},
+{
+    "id": "50976170746",
+    "location":
+    {
+        "latitude": 55.67868,
+        "zip": "1161",
+        "longitude": 12.57427,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vimmelskaftet 42"
+    },
+    "name": "Unisport.dk"
+},
+{
+    "id": "140862525974619",
+    "location":
+    {
+        "latitude": 55.680625010625,
+        "zip": "1112",
+        "longitude": 12.580435846625,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Pilestræde 32, 1112 København"
+    },
+    "name": "42Raw"
+},
+{
+    "id": "201640113193991",
+    "location":
+    {
+        "latitude": 55.682470477439,
+        "zip": "1140",
+        "longitude": 12.580241345002,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Møntergade 19"
+    },
+    "name": "Børsen"
+},
+{
+    "id": "1080721202009422",
+    "location":
+    {
+        "latitude": 55.67601,
+        "zip": "1609",
+        "longitude": 12.56331,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Axeltorv 5"
+    },
+    "name": "Panama Club"
+},
+{
+    "id": "185741612014",
+    "location":
+    {
+        "latitude": 55.67774,
+        "zip": "1061",
+        "longitude": 12.58104,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Ved Stranden 18"
+    },
+    "name": "Nordisk Ministerråd og Nordisk Råd"
+},
+{
+    "id": "376060695861577",
+    "location":
+    {
+        "located_in": "101620006554033",
+        "latitude": 55.67692,
+        "zip": "1785",
+        "longitude": 12.56842,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Rådhuspladsen 37"
+    },
+    "name": "Politikens Forlag"
+},
+{
+    "id": "674287022605890",
+    "location":
+    {
+        "latitude": 55.67594,
+        "zip": "1467",
+        "longitude": 12.57426,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vandkunsten 5"
+    },
+    "name": "Copenhagen Downtown Hostel"
+},
+{
+    "id": "676061179094769",
+    "location":
+    {
+        "latitude": 55.683600122109,
+        "zip": "1124",
+        "longitude": 12.574818134308,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Åbenrå 33"
+    },
+    "name": "Alternativet"
+},
+{
+    "id": "272634629445114",
+    "location":
+    {
+        "latitude": 55.67755,
+        "zip": "1202",
+        "longitude": 12.57764,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Gammel Strand 48"
+    },
+    "name": "Kunstforeningen GL STRAND"
+},
+{
+    "id": "334436019941362",
+    "location":
+    {
+        "latitude": 55.67904947951,
+        "zip": "1358",
+        "longitude": 12.566439612134,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nørrevoldgade 8"
+    },
+    "name": "Lola Ramona"
+},
+{
+    "id": "589356294573398",
+    "location":
+    {
+        "located_in": "186097958082467",
+        "latitude": 55.68163,
+        "zip": "1165",
+        "longitude": 12.57096,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nørregade 41"
+    },
+    "name": "ARCH"
+},
+{
+    "id": "604665342928509",
+    "location":
+    {
+        "latitude": 55.68006,
+        "zip": "1112",
+        "longitude": 12.58137,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Pilestræde 12A"
+    },
+    "name": "PS Bar & Grill"
+},
+{
+    "id": "174940025873992",
+    "location":
+    {
+        "latitude": 55.68065,
+        "zip": "1114",
+        "longitude": 12.57889,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kronprinsensgade 5"
+    },
+    "name": "A.C. Perchs Thehandel"
+},
+{
+    "id": "257480614286065",
+    "location":
+    {
+        "latitude": 55.67326,
+        "zip": "1221 København",
+        "longitude": 12.58214,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Søren Kierkegaards Plads 1"
+    },
+    "name": "Den Sorte Diamant - Det Kgl. Bibliotek"
+},
+{
+    "id": "8172419783",
+    "location":
+    {
+        "latitude": 55.68312,
+        "zip": "1123",
+        "longitude": 12.57859,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Gothersgade 55"
+    },
+    "name": "Cinemateket"
+},
+{
+    "id": "7055618693",
+    "location":
+    {
+        "latitude": 55.68271,
+        "zip": "1128",
+        "longitude": 12.57468,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Hausergade 3, 5"
+    },
+    "name": "Complete Vocal Institute"
+},
+{
+    "id": "127956667310792",
+    "location":
+    {
+        "latitude": 55.67658,
+        "zip": "1550",
+        "longitude": 12.56921,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Rådhuspladsen 47"
+    },
+    "name": "7-Eleven Rådhuspladsen 47"
+},
+{
+    "id": "199699810115067",
+    "location":
+    {
+        "longitude": 12.572275,
+        "latitude": 55.6814531,
+        "street": "Fiolstræde 17"
+    },
+    "name": "Forbrugerrådet Tænk"
+},
+{
+    "id": "626372090884478",
+    "location":
+    {
+        "latitude": 55.68182,
+        "zip": "1260",
+        "longitude": 12.58837,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Bredgade 20"
+    },
+    "name": "MASH"
+},
+{
+    "id": "1578702828837359",
+    "location":
+    {
+        "latitude": 55.6803,
+        "zip": "1602",
+        "longitude": 12.56145,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nyropsgade 2"
+    },
+    "name": "Restaurant Flammen"
+},
+{
+    "id": "751437384900595",
+    "location":
+    {
+        "latitude": 55.678082265926,
+        "zip": "1454",
+        "longitude": 12.569812627407,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Larsbjørnsstræde 8,"
+    },
+    "name": "The Donut Shop"
+},
+{
+    "id": "1368152486575313",
+    "location":
+    {
+        "latitude": 55.67958,
+        "zip": "1074",
+        "longitude": 12.58358,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Lille Kongensgade 16"
+    },
+    "name": "At Dolores"
+},
+{
+    "id": "510033882354200",
+    "location":
+    {
+        "longitude": 12.569151698154,
+        "zip": "2300",
+        "latitude": 55.675977610154
+    },
+    "name": "KFC Danmark"
+},
+{
+    "id": "104931383199612",
+    "location":
+    {
+        "latitude": 55.6748199,
+        "zip": "1216",
+        "longitude": 12.5847197,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Slotsholmsgade 12"
+    },
+    "name": "Miljø- og Fødevareministeriet"
+},
+{
+    "id": "120493358016788",
+    "location":
+    {
+        "latitude": 55.67676,
+        "zip": "1458",
+        "longitude": 12.57205,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kattesundet 18"
+    },
+    "name": "Centralhjørnet"
+},
+{
+    "id": "189743007654",
+    "location":
+    {
+        "latitude": 55.68096,
+        "zip": "1001",
+        "longitude": 12.57818,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Klareboderne 3"
+    },
+    "name": "Gyldendal"
+},
+{
+    "id": "488183977871744",
+    "location":
+    {
+        "located_in": "149827775069460",
+        "latitude": 55.67458,
+        "zip": "1448",
+        "longitude": 12.5891,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Asiatisk Plads 2"
+    },
+    "name": "Udenrigsministeriet Borgerservice"
+},
+{
+    "id": "181058258611965",
+    "location":
+    {
+        "longitude": 12.58062,
+        "zip": "1117",
+        "latitude": 55.68146
+    },
+    "name": "Early Bird"
+},
+{
+    "id": "334756557111",
+    "location":
+    {
+        "latitude": 55.676625586556,
+        "zip": "1550",
+        "longitude": 12.568478559001,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Rådhuspladsen 45-47"
+    },
+    "name": "Hard Rock Cafe Copenhagen"
+},
+{
+    "id": "484844854962515",
+    "location":
+    {
+        "latitude": 55.67641,
+        "zip": "1466",
+        "longitude": 12.5747199,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Rådhusstræde 13"
+    },
+    "name": "Bastard Café - kaffe, øl og masser af brætspil"
+},
+{
+    "id": "846764798671345",
+    "location":
+    {
+        "latitude": 55.68133,
+        "zip": "1050",
+        "longitude": 12.58499,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kongens Nytorv 26"
+    },
+    "name": "Bistro Royal"
+},
+{
+    "id": "545184565583829",
+    "location":
+    {
+        "located_in": "484844854962515",
+        "latitude": 55.67641,
+        "zip": "1466",
+        "longitude": 12.57472,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Rådhusstræde 13, 3 th"
+    },
+    "name": "Musikcaféen"
+},
+{
+    "id": "544705715588581",
+    "location":
+    {
+        "latitude": 55.67855,
+        "zip": "1067",
+        "longitude": 12.58242,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nikolaj Plads 15"
+    },
+    "name": "Kirkens Korshær"
+},
+{
+    "id": "255093471214608",
+    "location":
+    {
+        "latitude": 55.68144,
+        "zip": "1358",
+        "longitude": 12.571,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nørregade 39"
+    },
+    "name": "Folketeatret"
+},
+{
+    "id": "66971052034",
+    "location":
+    {
+        "latitude": 55.68216,
+        "zip": "1120",
+        "longitude": 12.5789,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vognmagergade 7, 3. sal"
+    },
+    "name": "Hjerteforeningen"
+},
+{
+    "id": "9822806858",
+    "location":
+    {
+        "located_in": "339799125985",
+        "latitude": 55.671977186935,
+        "zip": "1220",
+        "longitude": 12.578680262169,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Fæstningens Materialgård, Bygning B. Frederiksholms Kanal 30"
+    },
+    "name": "INDEX: Design to Improve Life"
+},
+{
+    "id": "308787879229565",
+    "location":
+    {
+        "latitude": 55.68336,
+        "zip": "1364",
+        "longitude": 12.56616,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nørre Farigmagsgade 41"
+    },
+    "name": "Höst"
+},
+{
+    "id": "33588644626",
+    "location":
+    {
+        "latitude": 55.67856,
+        "zip": "1160",
+        "longitude": 12.57684,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Amagertorv 29, 2. sal"
+    },
+    "name": "World Animal Protection Danmark"
+},
+{
+    "id": "261377963890954",
+    "location":
+    {
+        "latitude": 55.67931,
+        "zip": "1606",
+        "longitude": 12.56303,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vester Farimagsgade 41"
+    },
+    "name": "Radio24syv"
+},
+{
+    "id": "276145368333",
+    "location":
+    {
+        "latitude": 55.6779213,
+        "zip": "1201",
+        "longitude": 12.5770903,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Læderstræde 34, 4"
+    },
+    "name": "BEDRE PSYKIATRI - Landsforeningen for pårørende"
+},
+{
+    "id": "1112240828791445",
+    "location":
+    {
+        "latitude": 55.68074,
+        "zip": "1103",
+        "longitude": 12.58346,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Hovedvagtsgade 8"
+    },
+    "name": "The Private RooM"
+},
+{
+    "id": "53683074436",
+    "location":
+    {
+        "located_in": "103988597020",
+        "latitude": 55.673616396009,
+        "zip": "1620",
+        "longitude": 12.56759073779,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "Fredagsrock i Tivoli"
+},
+{
+    "id": "447171052156852",
+    "location":
+    {
+        "latitude": 55.681939769431,
+        "zip": "1123",
+        "longitude": 12.585096359253,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Boltens gård 8F"
+    },
+    "name": "Shade"
+},
+{
+    "id": "31324801518",
+    "location":
+    {
+        "latitude": 55.67494,
+        "zip": "1620",
+        "longitude": 12.56462,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vesterbrogade 4A"
+    },
+    "name": "VisitCopenhagen"
+},
+{
+    "id": "621167754615398",
+    "location":
+    {
+        "latitude": 31.212842023936,
+        "zip": "200000",
+        "longitude": 121.45345606503,
+        "city": "Shanghai",
+        "country": "China",
+        "street": "74 Yongkang Lu"
+    },
+    "name": "The Tap House"
+},
+{
+    "id": "238576729539939",
+    "location":
+    {
+        "latitude": 55.67578,
+        "zip": "1620",
+        "longitude": 12.5671,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vesterbrogade 2A"
+    },
+    "name": "Rosie McGee's"
+},
+{
+    "id": "202329553191",
+    "location":
+    {
+        "latitude": 55.6781,
+        "zip": "1164",
+        "longitude": 12.57329,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nygade 7, 2. sal"
+    },
+    "name": "LGBT Danmark"
+},
+{
+    "id": "219661911817268",
+    "location":
+    {
+        "latitude": 55.68438,
+        "zip": "1360",
+        "longitude": 12.57019,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Frederiksborggade 26"
+    },
+    "name": "GreenBurger FoodTruck"
+},
+{
+    "id": "432886316857486",
+    "location":
+    {
+        "latitude": 55.67963,
+        "zip": "1074",
+        "longitude": 12.58382,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Lille Kongengade 14"
+    },
+    "name": "Llama Restaurant & Bar"
+},
+{
+    "id": "141767742557343",
+    "location":
+    {
+        "latitude": 55.67935,
+        "zip": "1008",
+        "longitude": 12.57771,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Niels Hemmingsensgade 10"
+    },
+    "name": "Center For Women s Equality"
+},
+{
+    "id": "336432669806085",
+    "location":
+    {
+        "latitude": 55.681265969485,
+        "zip": "1050",
+        "longitude": 12.586241775568,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kongens Nytorv 8"
+    },
+    "name": "Geist"
+},
+{
+    "id": "116227401722605",
+    "location":
+    {
+        "located_in": "141226342563938",
+        "latitude": 55.6825,
+        "zip": "1300",
+        "longitude": 12.5845,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Borgergade 10, 3. sal"
+    },
+    "name": "Dansk Flygtningehjælp"
+},
+{
+    "id": "166032166871141",
+    "location":
+    {
+        "latitude": 55.68351,
+        "zip": "1300",
+        "longitude": 12.58524,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Borgergade 16"
+    },
+    "name": "Restaurant Pluto"
+},
+{
+    "id": "127985503931566",
+    "location":
+    {
+        "latitude": 55.68137,
+        "zip": "1050",
+        "longitude": 12.58592,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kongens Nytorv 18"
+    },
+    "name": "Trattoria FIAT - Vinbar og restaurant"
+},
+{
+    "id": "20303574131",
+    "location":
+    {
+        "latitude": 55.67449,
+        "zip": "1471",
+        "longitude": 12.57468,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Ny Vestergade 10"
+    },
+    "name": "Nationalmuseet"
+},
+{
+    "id": "104294743274852",
+    "location":
+    {
+        "latitude": 55.67989,
+        "zip": "1100",
+        "longitude": 12.58365,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Østergade 57"
+    },
+    "name": "Mama Rosa"
+},
+{
+    "id": "168794177991",
+    "location":
+    {
+        "latitude": 55.674381846767,
+        "zip": "1606",
+        "longitude": 12.562135147244,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vester Farimagsgade 1"
+    },
+    "name": "EF Danmark - Sprogrejser og studier i udlandet"
+},
+{
+    "id": "249846369582",
+    "location":
+    {
+        "latitude": 55.6736,
+        "zip": "1577",
+        "longitude": 12.566,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Bernstorffsgade 5"
+    },
+    "name": "NIMB"
+},
+{
+    "id": "560816180619496",
+    "location":
+    {
+        "latitude": 55.68395,
+        "zip": "1358",
+        "longitude": 12.5721399,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nørre Voldgade 21, 3. sal"
+    },
+    "name": "MentorDanmark"
+},
+{
+    "id": "1278080712248110",
+    "location":
+    {
+        "latitude": 55.67411,
+        "zip": "1620",
+        "longitude": 12.56214,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vesterbrogade 6E"
+    },
+    "name": "MADO Copenhagen"
+},
+{
+    "id": "611866328824046",
+    "location":
+    {
+        "latitude": 55.6775,
+        "zip": "1211",
+        "longitude": 12.5746,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Brolæggerstræde 9"
+    },
+    "name": "Socialpædagogerne"
+},
+{
+    "id": "169872526382089",
+    "location":
+    {
+        "latitude": 55.680630354951,
+        "zip": "1102",
+        "longitude": 12.583270671591,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Ny Østergade 8"
+    },
+    "name": "Café Victor"
+},
+{
+    "id": "205563946128613",
+    "location":
+    {
+        "latitude": 55.67886,
+        "zip": "1160",
+        "longitude": 12.5783799,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Amagertorv 14"
+    },
+    "name": "Kinfolk"
+},
+{
+    "id": "417739651628604",
+    "location":
+    {
+        "longitude": 12.56777,
+        "city": "Copenhagen",
+        "street": "Rådhuspladsen",
+        "country": "Denmark",
+        "latitude": 55.6766586
+    },
+    "name": "Copenhagen Free Walking Tours"
+},
+{
+    "id": "22694021454",
+    "location":
+    {
+        "longitude": 12.5869999,
+        "city": "København",
+        "country": "Denmark",
+        "zip": "1050",
+        "latitude": 55.6779709
+    },
+    "name": "Det Kongelige Teater"
+},
+{
+    "id": "1483225228593510",
+    "location":
+    {
+        "located_in": "261377963890954",
+        "latitude": 55.6793098,
+        "zip": "1606",
+        "longitude": 12.5630302,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vester Farimagsgade 41"
+    },
+    "name": "Radio24syv - Det, vi taler om"
+},
+{
+    "id": "132117070182599",
+    "location":
+    {
+        "latitude": 55.67921,
+        "zip": "1157",
+        "longitude": 12.57514,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Klosterstræde 19"
+    },
+    "name": "Biomega"
+},
+{
+    "id": "5997062916",
+    "location":
+    {
+        "latitude": 55.67786,
+        "zip": "1202",
+        "longitude": 12.57909,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Showroom - Gammel Strand 28"
+    },
+    "name": "Louis Poulsen Lighting"
+},
+{
+    "id": "138743792864334",
+    "location":
+    {
+        "latitude": 55.672753833393,
+        "zip": "1556",
+        "longitude": 12.572281328733,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Dantes Plads 7"
+    },
+    "name": "Glyptoteket"
+},
+{
+    "id": "344884799229",
+    "location":
+    {
+        "latitude": 55.67491,
+        "zip": "1611",
+        "longitude": 12.56377,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Hammerichsgade 1"
+    },
+    "name": "Radisson Blu Royal Hotel, Copenhagen"
+},
+{
+    "id": "597999776928700",
+    "location":
+    {
+        "latitude": 55.6866112,
+        "zip": "1304",
+        "longitude": 12.5861101,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Adelgade 106"
+    },
+    "name": "Copenhagen Stylebar"
+},
+{
+    "id": "142505945805875",
+    "location":
+    {
+        "latitude": 55.68052,
+        "zip": "1051",
+        "longitude": 12.58909,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nyhavn17"
+    },
+    "name": "Nyhavn 17"
+},
+{
+    "id": "53104590355",
+    "location":
+    {
+        "latitude": 55.67577,
+        "zip": "1550",
+        "longitude": 12.57157,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Regnbuepladsen 7"
+    },
+    "name": "Oscar Bar Café"
+},
+{
+    "id": "488879261189615",
+    "location":
+    {
+        "latitude": 55.675107867622,
+        "zip": "1609",
+        "longitude": 12.565150848849,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Axeltorv 1"
+    },
+    "name": "Café Vivaldi"
+},
+{
+    "id": "1530034107270796",
+    "location":
+    {
+        "latitude": 55.67626,
+        "zip": "1462",
+        "longitude": 12.57129,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Lavendelstræde 14"
+    },
+    "name": "Zoi Tattoo Cph"
+},
+{
+    "id": "121327171384867",
+    "location":
+    {
+        "latitude": 55.68233,
+        "zip": "1123",
+        "longitude": 12.58506,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Gothersgade 8H"
+    },
+    "name": "High Voltage Copenhagen"
+},
+{
+    "id": "163608693694254",
+    "location":
+    {
+        "located_in": "101620006554033",
+        "latitude": 55.67692,
+        "zip": "1785",
+        "longitude": 12.56842,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Rådhuspladsen 37"
+    },
+    "name": "SPOT"
+},
+{
+    "id": "459329030902509",
+    "location":
+    {
+        "latitude": 55.68674,
+        "zip": "2200",
+        "longitude": 12.56171,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Peblinge Dossering 6"
+    },
+    "name": "Kaffesalonen"
+},
+{
+    "id": "642817079166722",
+    "location":
+    {
+        "latitude": 55.67223,
+        "zip": "1652",
+        "longitude": 12.56229,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Colbjørnsensgade 11"
+    },
+    "name": "Urban House Copenhagen by MEININGER"
+},
+{
+    "id": "1507997959501973",
+    "location":
+    {
+        "located_in": "337713109603083",
+        "latitude": 55.67565,
+        "zip": "1610",
+        "longitude": 12.56411,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Axeltorv 3"
+    },
+    "name": "Landbrug & Fødevarer"
+},
+{
+    "id": "120492961366837",
+    "location":
+    {
+        "latitude": 55.677290861429,
+        "zip": "1554",
+        "longitude": 12.564879665713,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Studiestræde 52"
+    },
+    "name": "Pumpehuset"
+},
+{
+    "id": "366540630129233",
+    "location":
+    {
+        "latitude": 55.68132,
+        "zip": "1050",
+        "longitude": 12.58607,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kongens Nytorv 16"
+    },
+    "name": "Ravage"
+},
+{
+    "id": "115372158619656",
+    "location":
+    {
+        "latitude": 55.67864,
+        "zip": "1160",
+        "longitude": 12.57813,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Amagertorv 13-15"
+    },
+    "name": "Mads Nørgaard"
+},
+{
+    "id": "486398344763025",
+    "location":
+    {
+        "latitude": 55.67974,
+        "zip": "1600 Copenhagen V",
+        "longitude": 12.56278,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Gyldenløvesgade 11"
+    },
+    "name": "International House Copenhagen"
+},
+{
+    "id": "182547538438552",
+    "location":
+    {
+        "located_in": "20303574131",
+        "latitude": 55.67449,
+        "zip": "1220",
+        "longitude": 12.57468,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Ny Vestergade 10"
+    },
+    "name": "Nationalmuseet (aktiviteter, tilbud m.m.)"
+},
+{
+    "id": "185312978152380",
+    "location":
+    {
+        "latitude": 55.67424,
+        "zip": "1556",
+        "longitude": 12.57312,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vester Voldgade"
+    },
+    "name": "Rio Bravo"
+},
+{
+    "id": "126543540781090",
+    "location":
+    {
+        "latitude": 55.68209,
+        "zip": "1165",
+        "longitude": 12.57082,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nørregade 49"
+    },
+    "name": "Ældre Sagen"
+},
+{
+    "id": "133155886745898",
+    "location":
+    {
+        "located_in": "103988597020",
+        "latitude": 55.674082178174,
+        "zip": "1553",
+        "longitude": 12.56980191188,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "Færgekroen Bryghus"
+},
+{
+    "id": "183342165025684",
+    "location":
+    {
+        "latitude": 55.67595,
+        "zip": "1550",
+        "longitude": 12.56719,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Rådhuspladsen 16"
+    },
+    "name": "The Scottish Pub"
+},
+{
+    "id": "197017029017",
+    "location":
+    {
+        "latitude": 55.681094444405,
+        "zip": "1171",
+        "longitude": 12.572857439518,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Fiolstræde 22"
+    },
+    "name": "KILROY Denmark"
+},
+{
+    "id": "8060919100",
+    "location":
+    {
+        "longitude": 12.569848330701,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.678654944759
+    },
+    "name": "Soundvenue"
+},
+{
+    "id": "36664432940",
+    "location":
+    {
+        "latitude": 55.67842,
+        "zip": "2100",
+        "longitude": 12.57201,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Gammeltorv 8, 5 sal"
+    },
+    "name": "Amnesty International Danmark"
+},
+{
+    "id": "162013232283",
+    "location":
+    {
+        "latitude": 55.67684,
+        "zip": "1602",
+        "longitude": 12.56114,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nyropsgade 39-41"
+    },
+    "name": "Bremen Teater"
+},
+{
+    "id": "174762626039626",
+    "location":
+    {
+        "located_in": "120492961366837",
+        "latitude": 55.67713,
+        "zip": "1554",
+        "longitude": 12.56526,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Studiestræde 52"
+    },
+    "name": "Pumpehusets Byhave"
+},
+{
+    "id": "217785478473",
+    "location":
+    {
+        "latitude": 55.68184,
+        "zip": "1165",
+        "longitude": 12.57091,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nørregade 45"
+    },
+    "name": "Superlove"
+},
+{
+    "id": "116536901748584",
+    "location":
+    {
+        "latitude": 55.67644,
+        "zip": "1608",
+        "longitude": 12.56656,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Jernbanegade 2"
+    },
+    "name": "Nordisk Film Biografer Dagmar"
+},
+{
+    "id": "108966359122209",
+    "location":
+    {
+        "latitude": 55.67886,
+        "zip": "1165",
+        "longitude": 12.57224,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nørregade 6"
+    },
+    "name": "Golden Days Festival"
+},
+{
+    "id": "132344416862423",
+    "location":
+    {
+        "latitude": 55.67826,
+        "zip": "1790",
+        "longitude": 12.56309,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Stauning Plads 1-3"
+    },
+    "name": "FOA"
+},
+{
+    "id": "1699089530400219",
+    "location":
+    {
+        "latitude": 55.67491,
+        "zip": "1611 Copenhagen V",
+        "longitude": 12.56377,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Hammerichsgade 1"
+    },
+    "name": "Café Royal Copenhagen"
+},
+{
+    "id": "154924037892423",
+    "location":
+    {
+        "latitude": 55.67883,
+        "zip": "1157",
+        "longitude": 12.5757,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Klosterstræde 1"
+    },
+    "name": "Neye"
+},
+{
+    "id": "183595935013429",
+    "location":
+    {
+        "latitude": 55.67593892728,
+        "zip": "1608",
+        "longitude": 12.564926147461,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Jernbanegade 8"
+    },
+    "name": "Wallmans Cirkusbygningen"
+},
+{
+    "id": "32416796716",
+    "location":
+    {
+        "located_in": "228307370537367",
+        "latitude": 55.68264,
+        "zip": "1148 Kbh K",
+        "longitude": 12.57769,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vognmagergade 11"
+    },
+    "name": "Lindhardt og Ringhof"
+},
+{
+    "id": "150966698288138",
+    "location":
+    {
+        "latitude": 55.68639,
+        "zip": "1306",
+        "longitude": 12.58405,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kronprinsessegade 54"
+    },
+    "name": "Culture Box"
+},
+{
+    "id": "141481689239433",
+    "location":
+    {
+        "latitude": 55.67222,
+        "zip": "1651",
+        "longitude": 12.56354,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Reventlowsgade 16"
+    },
+    "name": "Jernbanecafeen"
+},
+{
+    "id": "141343589252160",
+    "location":
+    {
+        "latitude": 55.67534,
+        "zip": "1787",
+        "longitude": 12.56802,
+        "city": "København",
+        "country": "Denmark",
+        "street": "H.C. Andersens Boulevard 18"
+    },
+    "name": "Dansk Industri - DI"
+},
+{
+    "id": "116488018390522",
+    "location":
+    {
+        "latitude": 55.68076,
+        "zip": "1051",
+        "longitude": 12.58817,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nyhavn 3"
+    },
+    "name": "Canal Tours Copenhagen"
+},
+{
+    "id": "108741202494014",
+    "location":
+    {
+        "latitude": 55.67565,
+        "zip": "1620",
+        "longitude": 12.56672,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vesterbrogade 2B"
+    },
+    "name": "Old English Pub, Copenhagen"
+},
+{
+    "id": "151014355042885",
+    "location":
+    {
+        "latitude": 55.68248,
+        "zip": "1119",
+        "longitude": 12.57742,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Landemærket 12"
+    },
+    "name": "Bering House of Flowers"
+},
+{
+    "id": "620403047981021",
+    "location":
+    {
+        "latitude": 55.6751531982,
+        "zip": "1620",
+        "longitude": 12.566253884507,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 1"
+    },
+    "name": "MAD CPH"
+},
+{
+    "id": "173118989397506",
+    "location":
+    {
+        "located_in": "103988597020",
+        "latitude": 55.67465,
+        "zip": "1620",
+        "longitude": 12.56565,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "A Hereford Beefstouw - Tivoli - København V"
+},
+{
+    "id": "106808792711339",
+    "location":
+    {
+        "latitude": 55.67394,
+        "zip": "1614",
+        "longitude": 12.56056,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Trommesalen 5, 1. TV"
+    },
+    "name": "Take Offer"
+},
+{
+    "id": "63566068360",
+    "location":
+    {
+        "latitude": 55.683770412119,
+        "zip": "0300",
+        "longitude": 12.58986,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "university of gujrat pakistan"
+    },
+    "name": "Study in Denmark"
+},
+{
+    "id": "153847511332363",
+    "location":
+    {
+        "latitude": 55.68114,
+        "zip": "1165",
+        "longitude": 12.57132,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nørregade 20"
+    },
+    "name": "Herrernes Magasin by David K"
+},
+{
+    "id": "228307370537367",
+    "location":
+    {
+        "latitude": 55.68264,
+        "zip": "1148",
+        "longitude": 12.57769,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vognmagergade 11"
+    },
+    "name": "Egmont"
+},
+{
+    "id": "835286829968305",
+    "location":
+    {
+        "latitude": 55.67604,
+        "zip": "1203",
+        "longitude": 12.57541,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nybrogade 28"
+    },
+    "name": "Litteraturhuset"
+},
+{
+    "id": "133740323348176",
+    "location":
+    {
+        "latitude": 55.6782494,
+        "zip": "1060",
+        "longitude": 12.58638,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Holmens Kanal 7"
+    },
+    "name": "3Shape"
+},
+{
+    "id": "155790917804663",
+    "location":
+    {
+        "latitude": 55.67187,
+        "zip": "1408",
+        "longitude": 12.58829,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Wildersgade 8"
+    },
+    "name": "SF Studios Danmark"
+},
+{
+    "id": "108509592508543",
+    "location":
+    {
+        "latitude": 55.6746101,
+        "zip": "1471",
+        "longitude": 12.5762997,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Ny Vestergade 1"
+    },
+    "name": "Cosmo Laser & Skønhedsklinik"
+},
+{
+    "id": "98926113231",
+    "location":
+    {
+        "latitude": 55.679481509926,
+        "zip": "1100",
+        "longitude": 12.581749567374,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Østergade 40"
+    },
+    "name": "Sand"
+},
+{
+    "id": "200902533274743",
+    "location":
+    {
+        "longitude": 12.591259862093,
+        "latitude": 55.655338026999,
+        "street": "Grønjordsvej 10"
+    },
+    "name": "Nordea Danmark"
+},
+{
+    "id": "51260151482",
+    "location":
+    {
+        "latitude": 55.681268349973,
+        "zip": "1117",
+        "longitude": 12.581555843353,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Gammel Mønt 2-4"
+    },
+    "name": "IO Interactive"
+},
+{
+    "id": "113006845445297",
+    "location":
+    {
+        "latitude": 55.68118,
+        "zip": "1050 K",
+        "longitude": 12.58665,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kongens Nytorv 6"
+    },
+    "name": "European Environment Agency"
+},
+{
+    "id": "862049590591113",
+    "location":
+    {
+        "latitude": 55.67593,
+        "zip": "1463",
+        "longitude": 12.57271,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "c/o LB Forsikring A/S, Farvergade 17"
+    },
+    "name": "Lærerstandens Brandforsikring"
+},
+{
+    "id": "133830370045460",
+    "location":
+    {
+        "latitude": 55.67517,
+        "zip": "1620",
+        "longitude": 12.5671199,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 1E"
+    },
+    "name": "State of Green"
+},
+{
+    "id": "133141330096780",
+    "location":
+    {
+        "latitude": 55.679169333726,
+        "zip": "1850",
+        "longitude": 12.597155570984,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Trangravsvej nr. 10"
+    },
+    "name": "FindersKeepers Copenhagen"
+},
+{
+    "id": "225165640888160",
+    "location":
+    {
+        "latitude": 55.67868,
+        "zip": "1454",
+        "longitude": 12.56897,
+        "city": "Kjobenhavn",
+        "country": "Denmark",
+        "street": "Larsbjørsstræde 19. st.tv."
+    },
+    "name": "Project 4"
+},
+{
+    "id": "109012749124622",
+    "location":
+    {
+        "latitude": 55.67792,
+        "zip": "1790",
+        "longitude": 12.56047,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kampmannsgade 4"
+    },
+    "name": "3F - Danmarks Stærkeste Fagforening"
+},
+{
+    "id": "167379836714379",
+    "location":
+    {
+        "latitude": 55.6768417,
+        "zip": "1602",
+        "longitude": 12.5611401,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nyropsgade 39"
+    },
+    "name": "Hillsong Copenhagen"
+},
+{
+    "id": "54021084118",
+    "location":
+    {
+        "latitude": 55.67871,
+        "zip": "1009",
+        "longitude": 12.57798,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Strøget 1"
+    },
+    "name": "CHANTI"
+},
+{
+    "id": "493484314031350",
+    "location":
+    {
+        "latitude": 55.675833333333,
+        "zip": "1468",
+        "longitude": 12.569166666667,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Rådhuspladsen 14"
+    },
+    "name": "City Hall Square"
+},
+{
+    "id": "70729414688",
+    "location":
+    {
+        "longitude": 12.57818,
+        "latitude": 55.68187
+    },
+    "name": "Trustpilot"
+},
+{
+    "id": "51218588039",
+    "location":
+    {
+        "latitude": 55.67905,
+        "zip": "1453",
+        "longitude": 12.5674499,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Sankt Peders Stræde 30c, Stuen"
+    },
+    "name": "Kino.dk"
+},
+{
+    "id": "304554445813",
+    "location":
+    {
+        "longitude": 12.56466,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.67946
+    },
+    "name": "Bolius"
+},
+{
+    "id": "1669231106715809",
+    "location":
+    {
+        "latitude": 55.67901,
+        "zip": "1157",
+        "longitude": 12.57573,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Klosterstræde 10"
+    },
+    "name": "Naked"
+},
+{
+    "id": "118585758189320",
+    "location":
+    {
+        "latitude": 55.68259,
+        "zip": "1123",
+        "longitude": 12.58141,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Gothersgade 54"
+    },
+    "name": "Jane Kønig"
+},
+{
+    "id": "741113972621888",
+    "location":
+    {
+        "latitude": 55.68352,
+        "zip": "1123",
+        "longitude": 12.57646,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Gothersgade 103A, 2sal,"
+    },
+    "name": "FiTNESS FOOD"
+},
+{
+    "id": "162408904078",
+    "location":
+    {
+        "latitude": 55.67592,
+        "zip": "1467",
+        "longitude": 12.57361,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vandkunsten 12"
+    },
+    "name": "Danmarks Lærerforening"
+},
+{
+    "id": "141226342563938",
+    "location":
+    {
+        "latitude": 55.6825,
+        "zip": "1300",
+        "longitude": 12.5845,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Borgergade 10, 3. sal"
+    },
+    "name": "Danish Refugee Council"
+},
+{
+    "id": "140470112724724",
+    "location":
+    {
+        "located_in": "31324801518",
+        "latitude": 55.67494,
+        "zip": "1620",
+        "longitude": 12.56462,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vesterbrogade 4A"
+    },
+    "name": "Equsana"
+},
+{
+    "id": "228226417339215",
+    "location":
+    {
+        "latitude": 55.67768,
+        "zip": "1209",
+        "longitude": 12.57609,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Badstuestræde 17"
+    },
+    "name": "Hypetrade"
+},
+{
+    "id": "437898033055186",
+    "location":
+    {
+        "latitude": 55.67869,
+        "zip": "1453",
+        "longitude": 12.56732,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Sankt Peders stræde 47"
+    },
+    "name": "KarlsKicks"
+},
+{
+    "id": "1819019605034626",
+    "location":
+    {
+        "latitude": 55.67654,
+        "zip": "1058",
+        "longitude": 12.58828,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Havnegade 27"
+    },
+    "name": "Vejdirektoratet"
+},
+{
+    "id": "120079242050437",
+    "location":
+    {
+        "longitude": 12.56565,
+        "city": "Copenhagen V, Denmark",
+        "latitude": 55.67465,
+        "zip": "1630",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "Vapiano Danmark"
+},
+{
+    "id": "39233495912",
+    "location":
+    {
+        "latitude": 55.67198,
+        "zip": "1240",
+        "longitude": 12.57698,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Christiansborg"
+    },
+    "name": "Det Konservative Folkeparti"
+},
+{
+    "id": "123316491057930",
+    "location":
+    {
+        "latitude": 55.68091,
+        "zip": "1050",
+        "longitude": 12.58762,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kongens Nytorv 2"
+    },
+    "name": "House of Amber"
+},
+{
+    "id": "144965885963",
+    "location":
+    {
+        "located_in": "108741202494014",
+        "latitude": 55.6756516,
+        "zip": "1620",
+        "longitude": 12.56672,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 2B"
+    },
+    "name": "Oxfam IBIS"
+},
+{
+    "id": "276757269200305",
+    "location":
+    {
+        "latitude": 55.67814,
+        "zip": "1553",
+        "longitude": 12.56471,
+        "city": "København",
+        "country": "Denmark",
+        "street": "H.C. Andersens Boulevard 2"
+    },
+    "name": "Statens Kunstfond"
+},
+{
+    "id": "1445157938907465",
+    "location":
+    {
+        "latitude": 55.679266120814,
+        "zip": "1150",
+        "longitude": 12.579431533813,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Købmagergade 3A"
+    },
+    "name": "Nordgreen"
+},
+{
+    "id": "406175322785347",
+    "location":
+    {
+        "located_in": "228307370537367",
+        "latitude": 55.68264,
+        "zip": "1148",
+        "longitude": 12.57769,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vognmagergade 11"
+    },
+    "name": "Alinea"
+},
+{
+    "id": "441523039267786",
+    "location":
+    {
+        "latitude": 55.68531,
+        "zip": "1307",
+        "longitude": 12.58327,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kronprinsessegade 46 A"
+    },
+    "name": "Clinique Eden"
+},
+{
+    "id": "12787473132",
+    "location":
+    {
+        "located_in": "169174686450453",
+        "latitude": 55.68083,
+        "zip": "1147",
+        "longitude": 12.58038,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Pilestræde 34"
+    },
+    "name": "Berlingske"
+},
+{
+    "id": "1612281458993913",
+    "location":
+    {
+        "latitude": 55.6822014,
+        "zip": "1140",
+        "longitude": 12.5798397,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Møntergade 19"
+    },
+    "name": "Børsen Opinion"
+},
+{
+    "id": "535123729847544",
+    "location":
+    {
+        "latitude": 55.68106,
+        "zip": "1101",
+        "longitude": 12.5831199,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Ny Østergade 12"
+    },
+    "name": "AK Nygart"
+},
+{
+    "id": "1471953159690087",
+    "location":
+    {
+        "longitude": 12.58396,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.68203
+    },
+    "name": "MT Performance"
+},
+{
+    "id": "611753635559571",
+    "location":
+    {
+        "latitude": 55.6831017,
+        "zip": "1129",
+        "longitude": 12.5746403,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Sant Gertruds Straede 6E"
+    },
+    "name": "Rokoko"
+},
+{
+    "id": "510651868994245",
+    "location":
+    {
+        "latitude": 55.67618084339,
+        "zip": "1606",
+        "longitude": 12.561661595151,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vester Farimagsgade 13"
+    },
+    "name": "Akademikernes A-kasse"
+},
+{
+    "id": "215533038465146",
+    "location":
+    {
+        "longitude": 12.5665981,
+        "city": "København",
+        "street": "Østergade 22 og Vesterbrogade 2X",
+        "country": "Denmark",
+        "latitude": 55.6756554
+    },
+    "name": "Klarlund"
+},
+{
+    "id": "316842975192098",
+    "location":
+    {
+        "latitude": 55.6776,
+        "zip": "1202",
+        "longitude": 12.57859,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Gammel strand"
+    },
+    "name": "Happy Helper"
+},
+{
+    "id": "183915618295703",
+    "location":
+    {
+        "latitude": 55.68274,
+        "zip": "1120 København K",
+        "longitude": 12.57811,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vognmagergade 10, 1. sal"
+    },
+    "name": "Biografklub Danmark"
+},
+{
+    "id": "323850207760936",
+    "location":
+    {
+        "latitude": 55.67978,
+        "zip": "1100",
+        "longitude": 12.58317,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Østergade 17"
+    },
+    "name": "Trollbeads Concept Store Copenhagen"
+},
+{
+    "id": "402246789834045",
+    "location":
+    {
+        "located_in": "228307370537367",
+        "latitude": 55.68264,
+        "zip": "1148",
+        "longitude": 12.57769,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vognmagergade 11"
+    },
+    "name": "Forlaget Carlsen"
+},
+{
+    "id": "161162093900838",
+    "location":
+    {
+        "located_in": "31324801518",
+        "latitude": 55.67494,
+        "zip": "1620",
+        "longitude": 12.56462,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 4A"
+    },
+    "name": "Land & Fritid"
+},
+{
+    "id": "425503407470358",
+    "location":
+    {
+        "longitude": 12.57427,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "zip": "1161",
+        "latitude": 55.67868
+    },
+    "name": "Unisportstore.com"
+},
+{
+    "id": "1625228307806376",
+    "location":
+    {
+        "latitude": 55.68363,
+        "zip": "1130",
+        "longitude": 12.5745,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Rosenborggade 12, kld. th."
+    },
+    "name": "Den Veganske Butik"
+},
+{
+    "id": "463430700511013",
+    "location":
+    {
+        "latitude": 55.6820297,
+        "zip": "1116",
+        "longitude": 12.5797796,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Møntergade"
+    },
+    "name": "Salon sheillah"
+},
+{
+    "id": "124370397772263",
+    "location":
+    {
+        "latitude": 55.68804,
+        "zip": "1300",
+        "longitude": 12.58845,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Borgergade 111"
+    },
+    "name": "Bygningskultur Danmark / Historiske Huse"
+},
+{
+    "id": "114595531906624",
+    "location":
+    {
+        "latitude": 55.67935,
+        "zip": "1153",
+        "longitude": 12.57771,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Niels Hemmingsens Gade 10, 3"
+    },
+    "name": "Dansk Kvindesamfund"
+},
+{
+    "id": "134637526564378",
+    "location":
+    {
+        "located_in": "31324801518",
+        "latitude": 55.674946763888,
+        "zip": "1620",
+        "longitude": 12.564539909363,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 4A"
+    },
+    "name": "Paradis is"
+},
+{
+    "id": "114080867107",
+    "location":
+    {
+        "latitude": 55.6735115,
+        "zip": "1472",
+        "longitude": 12.5759697,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Ny Kongensgade 15"
+    },
+    "name": "SkillsDenmark"
+},
+{
+    "id": "48544092860",
+    "location":
+    {
+        "latitude": 55.67824,
+        "zip": "1201",
+        "longitude": 12.57819,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Læderstræde 18"
+    },
+    "name": "Carré Danmark"
+},
+{
+    "id": "220466928353766",
+    "location":
+    {
+        "longitude": 12.571531757712,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.673712550674
+    },
+    "name": "VR Karbala"
+},
+{
+    "id": "289794870687",
+    "location":
+    {
+        "latitude": 55.6815605,
+        "zip": "1110",
+        "longitude": 12.5817099,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Store Regnegade 3"
+    },
+    "name": "DECADENT"
+},
+{
+    "id": "230620516968753",
+    "location":
+    {
+        "latitude": 55.67866,
+        "zip": "1067",
+        "longitude": 12.58092,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nikolaj Plads 26"
+    },
+    "name": "EDU - universitetsstudier i udlandet"
+},
+{
+    "id": "1534815566802962",
+    "location":
+    {
+        "located_in": "261377963890954",
+        "latitude": 55.6793098,
+        "zip": "1606",
+        "longitude": 12.5630302,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vestre Farimagsgade 41"
+    },
+    "name": "Radio24syv - Den Korte Radioavis"
+},
+{
+    "id": "463981880636875",
+    "location":
+    {
+        "longitude": 12.560119628906,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.676810074389
+    },
+    "name": "RebeccaK.dk"
+},
+{
+    "id": "495897290562507",
+    "location":
+    {
+        "located_in": "109012749124622",
+        "latitude": 55.6779213,
+        "zip": "1790",
+        "longitude": 12.5604696,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kampmannsgade 4"
+    },
+    "name": "Fagbladet 3F"
+},
+{
+    "id": "162844580462943",
+    "location":
+    {
+        "latitude": 51.497340740443,
+        "zip": "SW1HOHW",
+        "longitude": -0.13516187667847,
+        "city": "London",
+        "country": "United Kingdom",
+        "street": "83 Victoria Street"
+    },
+    "name": "Sunweb"
+},
+{
+    "id": "284022275360744",
+    "location":
+    {
+        "latitude": 55.67862,
+        "zip": "1160",
+        "longitude": 12.57803,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Amagertov 15,2."
+    },
+    "name": "Loud Harmony"
+},
+{
+    "id": "189180301268789",
+    "location":
+    {
+        "longitude": 12.57467,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.67933
+    },
+    "name": "MUNK collective"
+},
+{
+    "id": "468304533330858",
+    "location":
+    {
+        "latitude": 55.6728783,
+        "zip": "1553",
+        "longitude": 12.57442,
+        "city": "København",
+        "country": "Denmark",
+        "street": "H. C. Andersens Boulevard 37"
+    },
+    "name": "Restaurant Flammen"
+},
+{
+    "id": "590748571315512",
+    "location":
+    {
+        "latitude": 55.67245,
+        "zip": "1574",
+        "longitude": 12.57337,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Niels Brocks Gade 1"
+    },
+    "name": "Restaurant Niels"
+},
+{
+    "id": "127452603934473",
+    "location":
+    {
+        "latitude": 55.67112,
+        "zip": "1751",
+        "longitude": 12.57293,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Otto Mønsteds Gade 5"
+    },
+    "name": "Børnefonden"
+},
+{
+    "id": "173320249439435",
+    "location":
+    {
+        "latitude": 55.67017,
+        "zip": "1780",
+        "longitude": 12.57027,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Polititorvet 14"
+    },
+    "name": "Politi"
+},
+{
+    "id": "103988597020",
+    "location":
+    {
+        "latitude": 55.673496439481,
+        "zip": "1630 V",
+        "longitude": 12.567777194517,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "Tivoli"
+},
+{
+    "id": "437410226312057",
+    "location":
+    {
+        "longitude": 12.570083323333,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.671091936667
+    },
+    "name": "Københavns Kommune"
+},
+{
+    "id": "183946958283138",
+    "location":
+    {
+        "latitude": 55.668811731454,
+        "zip": "1560",
+        "longitude": 12.574067115784,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kalvebod Brygge 5"
+    },
+    "name": "Copenhagen Marriott Hotel"
+},
+{
+    "id": "45834144932",
+    "location":
+    {
+        "latitude": 55.67105,
+        "zip": "1553",
+        "longitude": 12.57656,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "H.C.Andersens Boulevard 50"
+    },
+    "name": "Danhostel Copenhagen City"
+},
+{
+    "id": "223690937691260",
+    "location":
+    {
+        "latitude": 55.669719465,
+        "zip": "1780",
+        "longitude": 12.5707038,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Polititorvet"
+    },
+    "name": "Falck Danmark"
+},
+{
+    "id": "201408103735657",
+    "location":
+    {
+        "located_in": "20303574131",
+        "latitude": 55.67449,
+        "zip": "1471",
+        "longitude": 12.57468,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Egmonthallen, Nationalmuseet, Prinsens Palæ, Ny Vestergade 10"
+    },
+    "name": "Freedom Speech & Concert"
+},
+{
+    "id": "44741133186",
+    "location":
+    {
+        "latitude": 55.673869875144,
+        "zip": "1472",
+        "longitude": 12.576277256012,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Ny Kongensgade 10"
+    },
+    "name": "Altinget.dk"
+},
+{
+    "id": "106952222676974",
+    "location":
+    {
+        "latitude": 55.67198,
+        "zip": "1240",
+        "longitude": 12.57698,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Christiansborg"
+    },
+    "name": "Liberal Alliance"
+},
+{
+    "id": "353374740320",
+    "location":
+    {
+        "latitude": 55.673918275275,
+        "zip": "1472",
+        "longitude": 12.576234340668,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Ny Kongensgade 10, 2. sal"
+    },
+    "name": "Mandag Morgen"
+},
+{
+    "id": "374467896093910",
+    "location":
+    {
+        "located_in": "103988597020",
+        "latitude": 55.672876232752,
+        "zip": "1630",
+        "longitude": 12.568542969399,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "Salene i Tivoli"
+},
+{
+    "id": "161728097222333",
+    "location":
+    {
+        "longitude": 12.567839592295,
+        "located_in": "103988597020",
+        "latitude": 55.672571254365
+    },
+    "name": "Himmelskibet - Tivoli"
+},
+{
+    "id": "880958325403586",
+    "location":
+    {
+        "longitude": 12.568250814084,
+        "city": "Copenhagen",
+        "located_in": "103988597020",
+        "country": "Denmark",
+        "latitude": 55.673030937442
+    },
+    "name": "Koncertsalen i Tivoli"
+},
+{
+    "id": "1271989642815748",
+    "location":
+    {
+        "located_in": "103988597020",
+        "latitude": 55.672465336087,
+        "zip": "1630",
+        "longitude": 12.567510707391,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "Vaffelbageriet"
+},
+{
+    "id": "218915394820283",
+    "location":
+    {
+        "longitude": -0.12721,
+        "latitude": 51.5064316
+    },
+    "name": "wagamama"
+},
+{
+    "id": "127425024103228",
+    "location":
+    {
+        "located_in": "103988597020",
+        "latitude": 55.672410709625,
+        "zip": "1620",
+        "longitude": 12.567689450659,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "Restaurant Italia"
+},
+{
+    "id": "135625579818371",
+    "location":
+    {
+        "longitude": 12.567,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.67297778
+    },
+    "name": "Rutschebanen (Tivoli)"
+},
+{
+    "id": "486844268080550",
+    "location":
+    {
+        "latitude": 55.67279,
+        "zip": "2300",
+        "longitude": 12.56685,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Bernstorffsgade 7"
+    },
+    "name": "Jagthytten"
+},
+{
+    "id": "254774127910336",
+    "location":
+    {
+        "latitude": 59.31444,
+        "zip": "116 32",
+        "longitude": 18.0848799,
+        "city": "Stockholm",
+        "country": "Sweden",
+        "street": "Åsögatan 163"
+    },
+    "name": "La Vecchia Signora"
+},
+{
+    "id": "674531202659901",
+    "location":
+    {
+        "longitude": 12.568374280333,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.672905976333
+    },
+    "name": "Dirty Dancing Tivolis Koncertsal"
+},
+{
+    "id": "562675140514714",
+    "location":
+    {
+        "located_in": "103988597020",
+        "latitude": 55.672780856383,
+        "zip": "1630",
+        "longitude": 12.568552494049,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "SommerKlassisk i Tivoli"
+},
+{
+    "id": "1431483836973512",
+    "location":
+    {
+        "longitude": 12.569012967645,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.672372055555
+    },
+    "name": "Wagamama Danmark"
+},
+{
+    "id": "832081646952847",
+    "location":
+    {
+        "longitude": 12.567442393166,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.672011995201
+    },
+    "name": "Det Hjemsøgte"
+},
+{
+    "id": "374105619368870",
+    "location":
+    {
+        "longitude": 12.567947148801,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.672218385018
+    },
+    "name": "Aquila, Tivoli"
+},
+{
+    "id": "386304524768329",
+    "location":
+    {
+        "longitude": 12.5678,
+        "city": "København",
+        "country": "Denmark",
+        "zip": "1620",
+        "latitude": 55.6725
+    },
+    "name": "Star Flyer (Tivoli Gardens)"
+},
+{
+    "id": "250702848762419",
+    "location":
+    {
+        "longitude": 12.567419804035,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.67198796105
+    },
+    "name": "Kombardoexpressen"
+},
+{
+    "id": "126511457391896",
+    "location":
+    {
+        "longitude": 12.552222,
+        "city": "Stege",
+        "country": "Denmark",
+        "zip": "4791",
+        "latitude": 54.964167
+    },
+    "name": "Møns Klint"
+},
+{
+    "id": "350489428341829",
+    "location":
+    {
+        "longitude": 12.568207498818,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.672275995955
+    },
+    "name": "Rolling Stones Pinball @ Tivoli"
+},
+{
+    "id": "1616002318619223",
+    "location":
+    {
+        "latitude": 50.2713509,
+        "zip": "40-132",
+        "longitude": 19.02355,
+        "city": "Tangerang",
+        "country": "Indonesia",
+        "street": "Kościuszki 81"
+    },
+    "name": "GALOP"
+},
+{
+    "id": "382239018483257",
+    "location":
+    {
+        "longitude": 12.5669981,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.67222611
+    },
+    "name": "DcDk"
+},
+{
+    "id": "194071007297030",
+    "location":
+    {
+        "latitude": 55.67236568989,
+        "zip": "1704",
+        "longitude": 12.569051804033,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Tietgensgade"
+    },
+    "name": "Hong's Kantine"
+},
+{
+    "id": "716899294989006",
+    "location":
+    {
+        "longitude": 12.567527303484,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.672505605086
+    },
+    "name": "Kondieret"
+},
+{
+    "id": "594635317237227",
+    "location":
+    {
+        "located_in": "103988597020",
+        "latitude": 55.672833108488,
+        "zip": "1630",
+        "longitude": 12.568524201424,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "Grease Musical"
+},
+{
+    "id": "117021941776390",
+    "location":
+    {
+        "longitude": 12.568668519813,
+        "city": "København",
+        "country": "Denmark",
+        "zip": "1620",
+        "latitude": 55.672436729711
+    },
+    "name": "Radio Bilerne Tivoli:-*"
+},
+{
+    "id": "589335681172640",
+    "location":
+    {
+        "longitude": 12.567779053809,
+        "city": "København",
+        "country": "Denmark",
+        "zip": "1620",
+        "latitude": 55.673564668909
+    },
+    "name": "The Voice 14 Tivoli København"
+},
+{
+    "id": "125077161509968",
+    "location":
+    {
+        "longitude": 12.5691703,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.6723225
+    },
+    "name": "Wagamama Kopenhagen"
+},
+{
+    "id": "307467532710634",
+    "location":
+    {
+        "latitude": 41.041903921454,
+        "zip": "34353",
+        "longitude": 29.004316917417,
+        "city": "Istanbul",
+        "country": "Turkey",
+        "street": "büyük beşiktaş çarşısı"
+    },
+    "name": "Flora Akvaryum"
+},
+{
+    "id": "112143332131024",
+    "location":
+    {
+        "longitude": 12.8,
+        "city": "Tivoli",
+        "country": "Italy",
+        "latitude": 41.9667
+    },
+    "name": "Tivoli, Italy"
+},
+{
+    "id": "212176582221756",
+    "location":
+    {
+        "located_in": "103988597020",
+        "latitude": 55.673347362565,
+        "zip": "1630",
+        "longitude": 12.567532651552,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "Woodhouse"
+},
+{
+    "id": "141657505979198",
+    "location":
+    {
+        "located_in": "103988597020",
+        "latitude": 55.673347713834,
+        "zip": "1630",
+        "longitude": 12.570809284189,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vesterbrogade 3"
+    },
+    "name": "Det Gyldne Tårn"
+},
+{
+    "id": "246536105369375",
+    "location":
+    {
+        "latitude": 47.845019,
+        "zip": "725400",
+        "longitude": 25.915631,
+        "city": "Radauti",
+        "country": "Romania",
+        "street": "Am Markt 11"
+    },
+    "name": "Konditorei"
+},
+{
+    "id": "1985312821751100",
+    "location":
+    {
+        "longitude": 12.569082993619,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.672317869152
+    },
+    "name": "Wagamama Köpenhamn"
+},
+{
+    "id": "207394612635445",
+    "location":
+    {
+        "longitude": 12.568035395702,
+        "city": "København",
+        "country": "Denmark",
+        "zip": "1620",
+        "latitude": 55.672104456168
+    },
+    "name": "Bolchekogeriet"
+},
+{
+    "id": "259686540884503",
+    "location":
+    {
+        "latitude": 55.671958518266,
+        "zip": "1704",
+        "longitude": 12.567987637606,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Tivoli"
+    },
+    "name": "Ismejeriet"
+},
+{
+    "id": "221599728356346",
+    "location":
+    {
+        "longitude": 12.56883281064,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.671997570612
+    },
+    "name": "Paafuglens Bistro"
+},
+{
+    "id": "447503155360593",
+    "location":
+    {
+        "latitude": 56.563813093854,
+        "zip": "7800",
+        "longitude": 9.0301594850078,
+        "city": "Skive",
+        "country": "Denmark",
+        "street": "sdr. boulevard 7, 7800 Skive"
+    },
+    "name": "Lagkagehuset Skive"
+},
+{
+    "id": "155160024556997",
+    "location":
+    {
+        "longitude": 12.947838987416,
+        "city": "Åstorp",
+        "country": "Sweden",
+        "zip": "265 34",
+        "latitude": 56.136310061265
+    },
+    "name": "Harmoni Hår och Hudvård"
+},
+{
+    "id": "424703267594533",
+    "location":
+    {
+        "latitude": -29.936866714286,
+        "zip": "4052",
+        "longitude": 30.989265714286,
+        "city": "Durban",
+        "country": "South Africa",
+        "street": "330 Quality St"
+    },
+    "name": "Quality Street"
+},
+{
+    "id": "176058705913291",
+    "location":
+    {
+        "latitude": 55.67445284,
+        "zip": "1620",
+        "longitude": 12.5687032,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Tivoli"
+    },
+    "name": "Danseskolernes Dag"
+},
+{
+    "id": "210673632295543",
+    "location":
+    {
+        "latitude": 55.68021,
+        "zip": "1051",
+        "longitude": 12.59027,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nyhavn 33"
+    },
+    "name": "NyhavnC"
+},
+{
+    "id": "290111371759",
+    "location":
+    {
+        "latitude": 55.68033,
+        "zip": "1051",
+        "longitude": 12.58977,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nyhavn 25"
+    },
+    "name": "Hyttefadet"
+},
+{
+    "id": "1963134357299938",
+    "location":
+    {
+        "longitude": 12.59104,
+        "city": "København",
+        "street": "Nyhavn",
+        "country": "Denmark",
+        "latitude": 55.67993
+    },
+    "name": "Nyhavn"
+},
+{
+    "id": "110310799019937",
+    "location":
+    {
+        "longitude": 12.58738889,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.68016667
+    },
+    "name": "Charlottenborg Palace"
+},
+{
+    "id": "104956199540247",
+    "location":
+    {
+        "longitude": 12.593609615028,
+        "city": "Holmen",
+        "country": "Denmark",
+        "latitude": 55.681452269711
+    },
+    "name": "Holmen, København, Denmark"
+},
+{
+    "id": "180353568660784",
+    "location":
+    {
+        "latitude": 55.681901715397,
+        "zip": "1253",
+        "longitude": 12.593787797968,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Toldbodgade 24-28"
+    },
+    "name": "Copenhagen Admiral Hotel"
+},
+{
+    "id": "93545747709",
+    "location":
+    {
+        "latitude": 55.68082,
+        "zip": "1051",
+        "longitude": 12.58797,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nyhavn 1"
+    },
+    "name": "Barock - Nyhavn"
+},
+{
+    "id": "665977516838465",
+    "location":
+    {
+        "latitude": 55.68286,
+        "zip": "1300",
+        "longitude": 12.58409,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Borgergade 9"
+    },
+    "name": "Wakeup Copenhagen, Borgergade"
+},
+{
+    "id": "954797801278747",
+    "location":
+    {
+        "latitude": 55.68233,
+        "zip": "1261",
+        "longitude": 12.58638,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Palægade 8"
+    },
+    "name": "Restaurant Palægade"
+},
+{
+    "id": "179204292108981",
+    "location":
+    {
+        "latitude": 55.67973,
+        "zip": "1074",
+        "longitude": 12.58452,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "lille kongensgade 4"
+    },
+    "name": "Skindbuksen"
+},
+{
+    "id": "166827773336684",
+    "location":
+    {
+        "latitude": 55.68289,
+        "zip": "1256",
+        "longitude": 12.59233,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Amaliegade 16 • 1 'st floor"
+    },
+    "name": "Tromborg"
+},
+{
+    "id": "123534407659669",
+    "location":
+    {
+        "latitude": 55.67675,
+        "zip": "1060",
+        "longitude": 12.58386,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Holmens Kanal 21"
+    },
+    "name": "Holmens Kirke"
+},
+{
+    "id": "283539911849970",
+    "location":
+    {
+        "latitude": 55.6819,
+        "zip": "1264",
+        "longitude": 12.58548,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Store Kongensgade 3"
+    },
+    "name": "C.A"
+},
+{
+    "id": "104911329581453",
+    "location":
+    {
+        "latitude": 55.681404449443,
+        "zip": "1260",
+        "longitude": 12.587708830833,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Bredgade 3"
+    },
+    "name": "KLASSIK Moderne Møbelkunst"
+},
+{
+    "id": "139115136100906",
+    "location":
+    {
+        "latitude": 55.681445322694,
+        "zip": "1050",
+        "longitude": 12.585349645247,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kgs. Nytorv 24"
+    },
+    "name": "N'AGE"
+},
+{
+    "id": "141531689719",
+    "location":
+    {
+        "latitude": 55.680653873952,
+        "zip": "1250",
+        "longitude": 12.593747427772,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Sankt Annæ Plads 30"
+    },
+    "name": "Dansk Sygeplejeråd"
+},
+{
+    "id": "667724346709209",
+    "location":
+    {
+        "longitude": 12.58563,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.68165
+    },
+    "name": "The Organic LAB."
+},
+{
+    "id": "137148296320984",
+    "location":
+    {
+        "latitude": 55.68305,
+        "zip": "1256",
+        "longitude": 12.59217,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Amaliegade 15"
+    },
+    "name": "Baum und Pferdgarten"
+},
+{
+    "id": "144234206189424",
+    "location":
+    {
+        "latitude": 55.68112,
+        "zip": "1104",
+        "longitude": 12.58409,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Ny Adelgade 3"
+    },
+    "name": "Restaurant FRANK"
+},
+{
+    "id": "366939412915",
+    "location":
+    {
+        "latitude": 55.68068,
+        "zip": "1013",
+        "longitude": 12.59381,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Sankt Annæ Plads 30"
+    },
+    "name": "Din Sundhedsfaglige A-kasse"
+},
+{
+    "id": "1667715140218569",
+    "location":
+    {
+        "latitude": 55.68113,
+        "zip": "1260",
+        "longitude": 12.58779,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Bredgade 4"
+    },
+    "name": "Hartmanns"
+},
+{
+    "id": "405730406489398",
+    "location":
+    {
+        "latitude": 55.67858,
+        "zip": "1057",
+        "longitude": 12.59073,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "København K, Holbergsgade 24, kld"
+    },
+    "name": "Lashes & Permanent MakeUp CPH"
+},
+{
+    "id": "380425262027966",
+    "location":
+    {
+        "latitude": 55.68208,
+        "zip": "1123",
+        "longitude": 12.58515,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Boltensgård, Gothersgade 8L"
+    },
+    "name": "C&C Travel"
+},
+{
+    "id": "54249796589",
+    "location":
+    {
+        "latitude": 55.68137,
+        "zip": "1050",
+        "longitude": 12.58592,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kongens Nytorv 18"
+    },
+    "name": "Day Birger et Mikkelsen"
+},
+{
+    "id": "1353385061383196",
+    "location":
+    {
+        "latitude": 55.6768,
+        "zip": "1058",
+        "longitude": 12.58913,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Havnegade 31, st"
+    },
+    "name": "studido.com"
+},
+{
+    "id": "306064959461205",
+    "location":
+    {
+        "latitude": 55.67944,
+        "zip": "1050",
+        "longitude": 12.5848,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kongens Nytorv 15"
+    },
+    "name": "VITA copenhagen"
+},
+{
+    "id": "263263500350788",
+    "location":
+    {
+        "latitude": 55.682163684409,
+        "zip": "1550",
+        "longitude": 12.592172025905,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Rådhuspladsen 16"
+    },
+    "name": "Ernæring, Sundhed og Rådgivning​"
+},
+{
+    "id": "670306036317089",
+    "location":
+    {
+        "longitude": 12.59073,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.67946
+    },
+    "name": "Minskat Copenhagen"
+},
+{
+    "id": "421155651385494",
+    "location":
+    {
+        "latitude": 55.67845,
+        "zip": "1054",
+        "longitude": 12.58879,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Webshop: Peder Skrams Gade 11, 2th"
+    },
+    "name": "LOT ONE STUDIO"
+},
+{
+    "id": "1728215687423558",
+    "location":
+    {
+        "latitude": 55.68272,
+        "zip": "1256",
+        "longitude": 12.5924,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Amaliegade 14"
+    },
+    "name": "Cobiro"
+},
+{
+    "id": "326311667532471",
+    "location":
+    {
+        "latitude": 55.67888,
+        "zip": "1058",
+        "longitude": 12.59264,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Havnegade 55"
+    },
+    "name": "Søfartens Ledere"
+},
+{
+    "id": "654801374579876",
+    "location":
+    {
+        "latitude": 55.678669,
+        "zip": "1058",
+        "longitude": 12.5924196,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Havnegade 53A"
+    },
+    "name": "White Guide Danmark"
+},
+{
+    "id": "378355068906156",
+    "location":
+    {
+        "latitude": 55.68296,
+        "zip": "1264",
+        "longitude": 12.58677,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Store Kongensgade 42"
+    },
+    "name": "Lundstroms"
+},
+{
+    "id": "64175966145",
+    "location":
+    {
+        "latitude": 55.68029,
+        "zip": "1051",
+        "longitude": 12.59112,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kigkurren 8D, 1. sal"
+    },
+    "name": "ShopUSA"
+},
+{
+    "id": "211347355565631",
+    "location":
+    {
+        "latitude": 55.68106,
+        "zip": "1255",
+        "longitude": 12.5888899,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Store Strandstræde 12a"
+    },
+    "name": "AIAYU"
+},
+{
+    "id": "204066076319332",
+    "location":
+    {
+        "longitude": 12.584055662155,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.681247178902
+    },
+    "name": "THEBROWNPAPERBAG.NET"
+},
+{
+    "id": "157768197573130",
+    "location":
+    {
+        "latitude": 55.682010842438,
+        "zip": "1260",
+        "longitude": 12.587475478649,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Bredgade 19 E"
+    },
+    "name": "Yaneeda.com - oplevelsesrejser til indkøbspris"
+},
+{
+    "id": "161535207215112",
+    "location":
+    {
+        "latitude": 55.6819382,
+        "zip": "1261",
+        "longitude": 12.5869503,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Palægade"
+    },
+    "name": "9MM Energy Drink Denmark"
+},
+{
+    "id": "122249844465567",
+    "location":
+    {
+        "latitude": 55.68113,
+        "zip": "1050",
+        "longitude": 12.58483,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kongens Nytorv 28, 2."
+    },
+    "name": "Stop Spild Af Mad"
+},
+{
+    "id": "119118971467408",
+    "location":
+    {
+        "longitude": 12.593889,
+        "city": "Onesti",
+        "street": "Kastellet 1",
+        "country": "Romania",
+        "latitude": 55.691111
+    },
+    "name": "Kastellet, Copenhagen"
+},
+{
+    "id": "106283142744224",
+    "location":
+    {
+        "latitude": 55.684027777778,
+        "zip": "1257",
+        "longitude": 12.593333333333,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Amalienborg Slotsplads"
+    },
+    "name": "Amalienborg"
+},
+{
+    "id": "138325819525942",
+    "location":
+    {
+        "latitude": 55.6892,
+        "zip": "1263",
+        "longitude": 12.597,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Churchillparken 11"
+    },
+    "name": "St. Alban's Church, Copenhagen"
+},
+{
+    "id": "138109506218309",
+    "location":
+    {
+        "longitude": 12.599278,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.692861
+    },
+    "name": "The Little Mermaid (statue)"
+},
+{
+    "id": "105791869461366",
+    "location":
+    {
+        "latitude": 55.6889,
+        "zip": "1324",
+        "longitude": 12.5875,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Tigergade 2"
+    },
+    "name": "Nyboder"
+},
+{
+    "id": "115326935150689",
+    "location":
+    {
+        "latitude": 55.692222222222,
+        "zip": "2100",
+        "longitude": 12.5875,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Oslo Plads 8. 2100 København Ø"
+    },
+    "name": "Østerport station"
+},
+{
+    "id": "110743322310406",
+    "location":
+    {
+        "longitude": 12.5975,
+        "city": "København",
+        "country": "Denmark",
+        "zip": "2100",
+        "latitude": 55.689444444444
+    },
+    "name": "Gefion Fountain"
+},
+{
+    "id": "523503754341831",
+    "location":
+    {
+        "latitude": 55.686609374122,
+        "zip": "1260",
+        "longitude": 12.592892941831,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Bredgade 68"
+    },
+    "name": "Designmuseum Danmark"
+},
+{
+    "id": "143955788957813",
+    "location":
+    {
+        "longitude": 12.595,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "zip": "1257",
+        "latitude": 55.68333333
+    },
+    "name": "Amaliehaven"
+},
+{
+    "id": "150134278363837",
+    "location":
+    {
+        "latitude": 55.689659298877,
+        "zip": "1259",
+        "longitude": 12.599633003622,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Nordre Toldbod 24"
+    },
+    "name": "Toldboden"
+},
+{
+    "id": "115123358502887",
+    "location":
+    {
+        "latitude": 55.6924,
+        "zip": "1218",
+        "longitude": 12.5987,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Langelinie 10"
+    },
+    "name": "Langelinie"
+},
+{
+    "id": "215480991840628",
+    "location":
+    {
+        "latitude": 55.687598094074,
+        "zip": "1098",
+        "longitude": 12.597700609792,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Esplanaden 50"
+    },
+    "name": "Maersk Line"
+},
+{
+    "id": "190638967645704",
+    "location":
+    {
+        "latitude": 55.687947456857,
+        "zip": "1263",
+        "longitude": 12.597144649947,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Headquarters A.P. Møller - Mærsk A/S Esplanaden 50 1098 Copenhagen K"
+    },
+    "name": "Maersk Group"
+},
+{
+    "id": "174114066004900",
+    "location":
+    {
+        "latitude": 55.68733,
+        "zip": "1263",
+        "longitude": 12.59144,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Esplanaden 8"
+    },
+    "name": "Bistro Boheme"
+},
+{
+    "id": "108031669273256",
+    "location":
+    {
+        "latitude": 55.695680165157,
+        "zip": "1432",
+        "longitude": 12.608850002289,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Refshalevej 325"
+    },
+    "name": "Halvandet"
+},
+{
+    "id": "1567951633438312",
+    "location":
+    {
+        "latitude": 55.6879,
+        "zip": "1264",
+        "longitude": 12.59023,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Store Kongensgade 118"
+    },
+    "name": "Lars Jon - Florist"
+},
+{
+    "id": "1413306368990545",
+    "location":
+    {
+        "longitude": 12.5980899,
+        "latitude": 55.6941551
+    },
+    "name": "Jamestown"
+},
+{
+    "id": "162441487244358",
+    "location":
+    {
+        "latitude": 55.68926,
+        "zip": "1270",
+        "longitude": 12.59045,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Grønningen 15"
+    },
+    "name": "Mystery Makers"
+},
+{
+    "id": "447765058909705",
+    "location":
+    {
+        "latitude": 55.6864,
+        "zip": "1264",
+        "longitude": 12.5893,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Store Kongensgade 91"
+    },
+    "name": "THE VIETNAMESE"
+},
+{
+    "id": "528570447338742",
+    "location":
+    {
+        "latitude": 55.6832952,
+        "zip": "1300",
+        "longitude": 12.5844377,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Borgergade 13"
+    },
+    "name": "Sticks'n'Sushi"
+},
+{
+    "id": "109160732436041",
+    "location":
+    {
+        "latitude": 55.6862,
+        "zip": "1439",
+        "longitude": 12.6066,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "H.C. Sneedorffs Allé 3"
+    },
+    "name": "Royal Danish Naval Academy"
+},
+{
+    "id": "132720323435191",
+    "location":
+    {
+        "longitude": 12.600555555556,
+        "city": "København",
+        "street": "Ekvipagemestervej 10, 1438 København K",
+        "country": "Denmark",
+        "latitude": 55.681944444444
+    },
+    "name": "Copenhagen Opera House"
+},
+{
+    "id": "635450906583108",
+    "location":
+    {
+        "latitude": 55.69177,
+        "zip": "2100",
+        "longitude": 12.58688,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Oslo Plads 5"
+    },
+    "name": "Hotel Østerport"
+},
+{
+    "id": "297422283612612",
+    "location":
+    {
+        "longitude": 12.597084902331,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.687642227806
+    },
+    "name": "Maersk Oil"
+},
+{
+    "id": "238109072966783",
+    "location":
+    {
+        "latitude": 55.68505,
+        "zip": "1265",
+        "longitude": 12.58925,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Frederiksgade 4"
+    },
+    "name": "Frederiks Kirke - Marmorkirken"
+},
+{
+    "id": "258708349159",
+    "location":
+    {
+        "latitude": 55.692877443891,
+        "zip": "2100",
+        "longitude": 12.589854598045,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Folke Bernadottes Allé 7"
+    },
+    "name": "Nyhavn Rejser"
+},
+{
+    "id": "155113957979598",
+    "location":
+    {
+        "latitude": 55.691388888889,
+        "zip": "2100",
+        "longitude": 12.587083333333,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Oslo Plads 1, 2100 København Ø"
+    },
+    "name": "Den Frie Udstilling"
+},
+{
+    "id": "160139617417040",
+    "location":
+    {
+        "latitude": 55.68809,
+        "zip": "1098",
+        "longitude": 12.5977,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Esplanaden 50"
+    },
+    "name": "Maersk Supply Service"
+},
+{
+    "id": "332636423443566",
+    "location":
+    {
+        "latitude": 55.687480052157,
+        "zip": "1260",
+        "longitude": 12.592906951904,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Bredgade 76"
+    },
+    "name": "Montana Furniture"
+},
+{
+    "id": "341305162690734",
+    "location":
+    {
+        "latitude": 55.697119240608,
+        "zip": "2100",
+        "longitude": 12.583379745483,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Classensgade 34"
+    },
+    "name": "Iron & Ink Copenhagen"
+},
+{
+    "id": "166594410054385",
+    "location":
+    {
+        "latitude": 55.68751,
+        "zip": "1306",
+        "longitude": 12.58505,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Kronprinsessegade 64"
+    },
+    "name": "Restaurant Kokkeriet"
+},
+{
+    "id": "298461170736",
+    "location":
+    {
+        "latitude": 55.694421594675,
+        "zip": "2100",
+        "longitude": 12.582855957202,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Dag Hammarskjölds Allé 24"
+    },
+    "name": "U.S. Embassy Denmark"
+},
+{
+    "id": "129282707087122",
+    "location":
+    {
+        "latitude": 55.68479,
+        "zip": "49475",
+        "longitude": 12.59503,
+        "city": "Kaunas Petrasiunas",
+        "country": "Lithuania",
+        "street": "savanoriu pr 288"
+    },
+    "name": "Luxuskirurgi - Europæisk center for helse, wellness & skønhed"
+},
+{
+    "id": "995841380473704",
+    "location":
+    {
+        "latitude": 55.68333,
+        "zip": "1302",
+        "longitude": 12.58776,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Dronningens Tværgade 7, st."
+    },
+    "name": "CeriX"
+},
+{
+    "id": "188180217907121",
+    "location":
+    {
+        "latitude": 55.69667,
+        "zip": "2100",
+        "longitude": 12.59472,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Dampfærgevej 8. 5.sal"
+    },
+    "name": "LogBuy Danmark"
+},
+{
+    "id": "336489353032872",
+    "location":
+    {
+        "latitude": 55.68363,
+        "zip": "1260",
+        "longitude": 12.58989,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Bredgade 34, 1. sal"
+    },
+    "name": "Sustainia"
+},
+{
+    "id": "123807228233424",
+    "location":
+    {
+        "latitude": 55.6866,
+        "zip": "1260",
+        "longitude": 12.59126,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Bredgade 65a, 1. Sal"
+    },
+    "name": "Mansa - Familiesammenføring"
+},
+{
+    "id": "101548173806241",
+    "location":
+    {
+        "latitude": 55.693721002497,
+        "zip": "1432",
+        "longitude": 12.608292102814,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Refshalevej 169"
+    },
+    "name": "Naturs Vinbar"
+},
+{
+    "id": "329356990851529",
+    "location":
+    {
+        "located_in": "150966698288138",
+        "latitude": 55.68639,
+        "zip": "1306",
+        "longitude": 12.58405,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kronprinsessegade 54 4.sal mf"
+    },
+    "name": "Checkmate ApS"
+},
+{
+    "id": "1522284991160283",
+    "location":
+    {
+        "latitude": 55.682181719564,
+        "zip": "1438",
+        "longitude": 12.600030899048,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Ekvipagemestervej 10"
+    },
+    "name": "One And Only Musical Teater"
+},
+{
+    "id": "1405288036402555",
+    "location":
+    {
+        "latitude": 55.69362,
+        "zip": "2100",
+        "longitude": 12.58722,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Trondhjemsgade 2"
+    },
+    "name": "GoKarakter"
+},
+{
+    "id": "334763920021426",
+    "location":
+    {
+        "located_in": "172154492805910",
+        "latitude": 52.49438,
+        "zip": "10961",
+        "longitude": 13.39878,
+        "city": "Berlin",
+        "country": "Germany",
+        "street": "Blücherstraße 22"
+    },
+    "name": "The Cloakroom"
+},
+{
+    "id": "313928288721940",
+    "location":
+    {
+        "latitude": 55.686938760004,
+        "zip": "1310",
+        "longitude": 12.58608341217,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Fredericiagade 57"
+    },
+    "name": "FRAMA"
+},
+{
+    "id": "1533673140220199",
+    "location":
+    {
+        "longitude": 77.094841003418,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "zip": "1124",
+        "latitude": 28.423108557931
+    },
+    "name": "CodersTrust"
+},
+{
+    "id": "1534782070134005",
+    "location":
+    {
+        "latitude": 55.6852,
+        "zip": "1306",
+        "longitude": 12.58329,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kronprinsessegade 46 F"
+    },
+    "name": "Bodil Jørgensen Skuespiller"
+},
+{
+    "id": "665671633473114",
+    "location":
+    {
+        "latitude": 55.68603,
+        "zip": "1300",
+        "longitude": 12.58738,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Borgergade 40, st. TH."
+    },
+    "name": "Inbody Danmark"
+},
+{
+    "id": "430906253604395",
+    "location":
+    {
+        "latitude": 55.68457,
+        "zip": "1265",
+        "longitude": 12.58926,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Frederiksgade 10"
+    },
+    "name": "Rplparfums"
+},
+{
+    "id": "294180263931252",
+    "location":
+    {
+        "latitude": 55.6834,
+        "zip": "1302",
+        "longitude": 12.58754,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Dronningens Tværgade 9, 2.sal"
+    },
+    "name": "Luelle"
+},
+{
+    "id": "146001445410373",
+    "location":
+    {
+        "latitude": 55.68461,
+        "zip": "1306",
+        "longitude": 12.58256,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kronprinsessegade 36, 1."
+    },
+    "name": "NetDania"
+},
+{
+    "id": "124280647588099",
+    "location":
+    {
+        "latitude": 55.686882020248,
+        "zip": "1353",
+        "longitude": 12.573199937602,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Øster Farimagsgade 2B"
+    },
+    "name": "Botanisk Have, København"
+},
+{
+    "id": "105989152765340",
+    "location":
+    {
+        "latitude": 55.688888888889,
+        "zip": "2200",
+        "longitude": 12.566944444444,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "søerne"
+    },
+    "name": "The Lakes, Copenhagen"
+},
+{
+    "id": "183538365005897",
+    "location":
+    {
+        "latitude": 55.684328492385,
+        "zip": "1306",
+        "longitude": 12.57970550895,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Gothersgade"
+    },
+    "name": "Kongens Have, Restaurant"
+},
+{
+    "id": "128700897207990",
+    "location":
+    {
+        "latitude": 55.68421,
+        "zip": "1123",
+        "longitude": 12.57446,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Gothersgade 115 - Europa-Huset"
+    },
+    "name": "Europa-Parlamentet i Danmark"
+},
+{
+    "id": "441410779213564",
+    "location":
+    {
+        "latitude": 55.69039,
+        "zip": "1357",
+        "longitude": 12.57135,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Øster Søgade 34"
+    },
+    "name": "Lo Maalue"
+},
+{
+    "id": "318522098214555",
+    "location":
+    {
+        "latitude": 55.68381484381,
+        "zip": "1131",
+        "longitude": 12.574110031128,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Tornebuskegade 1, 1St Floor"
+    },
+    "name": "Mai Copenhagen"
+},
+{
+    "id": "107331721164",
+    "location":
+    {
+        "latitude": 55.68474,
+        "zip": "1015",
+        "longitude": 12.5724,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Gothersgade 133"
+    },
+    "name": "Djøf Studerende"
+},
+{
+    "id": "188137691214001",
+    "location":
+    {
+        "latitude": 55.69073,
+        "zip": "2100",
+        "longitude": 12.57815,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Stockholmsgade 27"
+    },
+    "name": "Dansk Psykolog Forening"
+},
+{
+    "id": "899756280046426",
+    "location":
+    {
+        "latitude": 55.6944084,
+        "zip": "2100",
+        "longitude": 12.5774298,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Zinnsgade 8,1.th"
+    },
+    "name": "BørnefestiBAL"
+},
+{
+    "id": "1935854843401517",
+    "location":
+    {
+        "longitude": 12.5985682,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.6917112
+    },
+    "name": "Den Lille Havfrue"
+},
+{
+    "id": "187787851300202",
+    "location":
+    {
+        "longitude": 12.598300554572,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.691765848042
+    },
+    "name": "Michael Laudrup, Langelinie Pavilionen"
+},
+{
+    "id": "1158953924197117",
+    "location":
+    {
+        "latitude": 55.76211,
+        "zip": "2920",
+        "longitude": 12.59975,
+        "city": "Charlottenlund",
+        "country": "Denmark",
+        "street": "Skovshoved Havn 1B"
+    },
+    "name": "Il Gabbiano Skovshoved Havn"
+},
+{
+    "id": "254185127991782",
+    "location":
+    {
+        "latitude": 55.691070933745,
+        "zip": "1651",
+        "longitude": 12.598983522643,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Langelinie Park"
+    },
+    "name": "Copenhagen Sakura Festival"
+},
+{
+    "id": "450120838355376",
+    "location":
+    {
+        "latitude": 55.69222133017,
+        "zip": "2100",
+        "longitude": 12.598593235016,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Langelinie 10"
+    },
+    "name": "Madkastellet"
+},
+{
+    "id": "104083306294368",
+    "location":
+    {
+        "longitude": 73.7667,
+        "city": "Rawala Kot",
+        "country": "Pakistan",
+        "latitude": 33.8667
+    },
+    "name": "Rawalakot"
+},
+{
+    "id": "199222350196367",
+    "location":
+    {
+        "longitude": 12.599506527197,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.690676104329
+    },
+    "name": "Langalinie Park"
+},
+{
+    "id": "1898194277116087",
+    "location":
+    {
+        "latitude": 55.69029,
+        "zip": "1259",
+        "longitude": 12.59962,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nordre Toldbod 16"
+    },
+    "name": "Løgismose"
+},
+{
+    "id": "222137381500053",
+    "location":
+    {
+        "latitude": 55.68991,
+        "zip": "2100",
+        "longitude": 12.5953,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Kastellet"
+    },
+    "name": "Kastelsmøllen"
+},
+{
+    "id": "129614545970",
+    "location":
+    {
+        "latitude": 55.691362620921,
+        "zip": "2100",
+        "longitude": 12.598292827606,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Langelinie 10"
+    },
+    "name": "Humanic Group"
+},
+{
+    "id": "222896997821810",
+    "location":
+    {
+        "latitude": 55.67657,
+        "zip": "1606",
+        "longitude": 12.56179,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vester Farimagsgade 17"
+    },
+    "name": "ProfilHotels I Mercur"
+},
+{
+    "id": "138605009502100",
+    "location":
+    {
+        "latitude": 55.6755,
+        "zip": "1612",
+        "longitude": 12.5611,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Ved Vesterport 4"
+    },
+    "name": "Imperial Theater, Copenhagen"
+},
+{
+    "id": "178048215562837",
+    "location":
+    {
+        "longitude": 12.561137254544,
+        "latitude": 55.675271093885
+    },
+    "name": "Nordisk Film Biografer"
+},
+{
+    "id": "353460158066250",
+    "location":
+    {
+        "longitude": 12.560996692475,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.675722283888
+    },
+    "name": "Nyhayn"
+},
+{
+    "id": "211360122210981",
+    "location":
+    {
+        "longitude": 12.57527778,
+        "city": "Copenhagen",
+        "street": "Gothersgade 100",
+        "country": "Denmark",
+        "latitude": 55.685
+    },
+    "name": "Rosenborg Barracks"
+},
+{
+    "id": "1456456414617953",
+    "location":
+    {
+        "latitude": 55.67633,
+        "zip": "1606",
+        "longitude": 12.56179,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vester Farimagsgade 15"
+    },
+    "name": "Moment Staff"
+},
+{
+    "id": "466612783359057",
+    "location":
+    {
+        "longitude": 12.561526429726,
+        "latitude": 55.675714593676
+    },
+    "name": "Imperial Hotel, Copenhagen"
+},
+{
+    "id": "110223219030432",
+    "location":
+    {
+        "latitude": 55.66713,
+        "zip": "2450",
+        "longitude": 12.55506,
+        "city": "København",
+        "country": "Denmark",
+        "street": "City Area"
+    },
+    "name": "Vesterbro, Copenhagen"
+},
+{
+    "id": "154938907907185",
+    "location":
+    {
+        "latitude": 55.676676983725,
+        "zip": "1606",
+        "longitude": 12.561664581299,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vester Farimagsgade 15"
+    },
+    "name": "FranklinCovey Danmark"
+},
+{
+    "id": "290677110953117",
+    "location":
+    {
+        "longitude": 12.562804436323,
+        "city": "København",
+        "country": "Denmark",
+        "zip": "1611",
+        "latitude": 55.67669760441
+    },
+    "name": "Palads Bio 3"
+},
+{
+    "id": "503562339700983",
+    "location":
+    {
+        "longitude": 12.562694484402,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.675494609062
+    },
+    "name": "Emmerys"
+},
+{
+    "id": "106335472889123",
+    "location":
+    {
+        "latitude": 55.67633,
+        "zip": "1606",
+        "longitude": 12.56179,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vester Farimagsgade 15"
+    },
+    "name": "Moment Students"
+},
+{
+    "id": "315957071800481",
+    "location":
+    {
+        "longitude": 12.5625,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.676389
+    },
+    "name": "Vesterport Station"
+},
+{
+    "id": "102595179793817",
+    "location":
+    {
+        "longitude": 12.6494,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "zip": "2770",
+        "latitude": 55.6296
+    },
+    "name": "Copenhagen Airport, Kastrup Station"
+},
+{
+    "id": "1150573831661414",
+    "location":
+    {
+        "longitude": 12.561757941999,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.676670075096
+    },
+    "name": "Spies Centre Court"
+},
+{
+    "id": "139355516099712",
+    "location":
+    {
+        "longitude": 12.5833,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.6667
+    },
+    "name": "TEDxCopenhagen"
+},
+{
+    "id": "447830858566209",
+    "location":
+    {
+        "latitude": 55.67514,
+        "zip": "1601",
+        "longitude": 12.55942,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vester Søgade 6"
+    },
+    "name": "Scandic Copenhagen"
+},
+{
+    "id": "1450493538312621",
+    "location":
+    {
+        "latitude": 55.676253510419,
+        "zip": "1605",
+        "longitude": 12.559947967529,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Herholdtsgade 6"
+    },
+    "name": "Steel House Copenhagen"
+},
+{
+    "id": "1088240577973940",
+    "location":
+    {
+        "longitude": 12.561244449071,
+        "city": "Copenhagen",
+        "street": "Ved Vesterport 4",
+        "country": "Denmark",
+        "latitude": 55.675217599624
+    },
+    "name": "Nordisk Film Biografer Imperial"
+},
+{
+    "id": "127687094522423",
+    "location":
+    {
+        "longitude": 12.561945721404,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.675284181081
+    },
+    "name": "Espresso House"
+},
+{
+    "id": "300379736714910",
+    "location":
+    {
+        "latitude": 55.6766992,
+        "zip": "1602",
+        "longitude": 12.5611616,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nyropsgade 41"
+    },
+    "name": "Jobcenter København"
+},
+{
+    "id": "331791283520470",
+    "location":
+    {
+        "located_in": "337713109603083",
+        "latitude": 55.67565,
+        "zip": "1609",
+        "longitude": 12.56411,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Axeltov 3"
+    },
+    "name": "Tuben"
+},
+{
+    "id": "256058091099234",
+    "location":
+    {
+        "longitude": 12.562016658619,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.675267095477
+    },
+    "name": "Baresso Ved Vesterport"
+},
+{
+    "id": "207438062668278",
+    "location":
+    {
+        "latitude": 55.67751,
+        "zip": "1780",
+        "longitude": 12.56052,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Nyropsgade 30"
+    },
+    "name": "NaturErhvervstyrelsen"
+},
+{
+    "id": "219428598067987",
+    "location":
+    {
+        "latitude": 55.67669,
+        "zip": "1401",
+        "longitude": 12.59637,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Strandgade 100"
+    },
+    "name": "Direktoratet for Kriminalforsorgen"
+},
+{
+    "id": "124470041012542",
+    "location":
+    {
+        "located_in": "337713109603083",
+        "latitude": 55.67565,
+        "zip": "1609",
+        "longitude": 12.56411,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Axeltorv 3"
+    },
+    "name": "XO Burgers and Steaks"
+},
+{
+    "id": "476004522500686",
+    "location":
+    {
+        "latitude": 51.97713,
+        "zip": "96-320",
+        "longitude": 20.5274,
+        "city": "Mszczonów",
+        "country": "Poland",
+        "street": "Północna 22"
+    },
+    "name": "Ristorante Appetito"
+},
+{
+    "id": "116565585081309",
+    "location":
+    {
+        "latitude": 55.675301235083,
+        "zip": "1611",
+        "longitude": 12.563393234791,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Hammerichsgade 5"
+    },
+    "name": "fitness dk Royal"
+},
+{
+    "id": "138550166205335",
+    "location":
+    {
+        "longitude": 12.498942491245,
+        "city": "Brønshøj",
+        "located_in": "113521202052447",
+        "country": "Denmark",
+        "latitude": 55.685409290605
+    },
+    "name": "S-toget"
+},
+{
+    "id": "113769725303253",
+    "location":
+    {
+        "longitude": 8.05,
+        "city": "Imperia",
+        "country": "Italy",
+        "zip": "18100",
+        "latitude": 43.8833
+    },
+    "name": "Imperia"
+},
+{
+    "id": "181652475191269",
+    "location":
+    {
+        "latitude": 55.488300006638,
+        "zip": "4600",
+        "longitude": 12.162328587116,
+        "city": "Køge",
+        "country": "Denmark",
+        "street": "Centervej"
+    },
+    "name": "Køge Transportcenter"
+},
+{
+    "id": "135413496514243",
+    "location":
+    {
+        "latitude": 55.70263889605,
+        "zip": "2100",
+        "longitude": 12.572239549441,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Per Henrik Lings Alle 2"
+    },
+    "name": "Telia Parken"
+},
+{
+    "id": "492564190831344",
+    "location":
+    {
+        "latitude": 55.67657,
+        "zip": "1606",
+        "longitude": 12.56179,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vester Farimagsgade 17"
+    },
+    "name": "Restaurant Mercur"
+},
+{
+    "id": "245836728798643",
+    "location":
+    {
+        "latitude": 55.672732,
+        "zip": "1570",
+        "longitude": 12.564744,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Københavns Hovedbanegaard"
+    },
+    "name": "McDonald's Hovedbanegården"
+},
+{
+    "id": "162114267168057",
+    "location":
+    {
+        "latitude": 55.67631,
+        "zip": "1609",
+        "longitude": 12.56446,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Axeltorv 6"
+    },
+    "name": "Jensens Bøfhus Axeltorv"
+},
+{
+    "id": "1023878721044051",
+    "location":
+    {
+        "latitude": 55.70762,
+        "zip": "2100",
+        "longitude": 12.55135,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "street": "Vermundsgade 40b"
+    },
+    "name": "Astep"
+},
+{
+    "id": "358221681229095",
+    "location":
+    {
+        "latitude": 55.676362403992,
+        "zip": "1609",
+        "longitude": 12.56441116333,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Axeltorv 6"
+    },
+    "name": "ba'sta'ds"
+},
+{
+    "id": "246641122208273",
+    "location":
+    {
+        "longitude": 12.5683,
+        "city": "København",
+        "country": "Denmark",
+        "latitude": 55.6761
+    },
+    "name": "First Class Events"
+},
+{
+    "id": "1669057253410202",
+    "location":
+    {
+        "latitude": 55.67801,
+        "zip": "1606",
+        "longitude": 12.56228,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Vester Farimagsgade 27-31"
+    },
+    "name": "Urban Gym"
+},
+{
+    "id": "597678480384097",
+    "location":
+    {
+        "latitude": 55.67645,
+        "zip": "1609",
+        "longitude": 12.5643499,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Axeltorv 8"
+    },
+    "name": "Bistro Avenue"
+},
+{
+    "id": "337713109603083",
+    "location":
+    {
+        "latitude": 55.67565,
+        "zip": "1609",
+        "longitude": 12.56411,
+        "city": "København",
+        "country": "Denmark",
+        "street": "Axeltorv 3"
+    },
+    "name": "Cafe Emma"
+}]
